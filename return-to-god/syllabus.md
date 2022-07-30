@@ -1,4 +1,4 @@
-![University of St. Thomas - Core Curriculum](https://www.github.com/historical-theology/stthomas/ustlogo.jpg)
+![University of St. Thomas - Core Curriculum](https://raw.githubusercontent.com/historical-theology/stthomas/main/ustlogo.jpg)
 ## Core Curriculum
 
 # The Return to God
