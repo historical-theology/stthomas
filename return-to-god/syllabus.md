@@ -15,12 +15,6 @@ You have made us for yourself, O Lord, and our hearts are restless until they re
 
 -St. Augustine, Confessions I
 
-In this course, you will be introduced to what Catholic theology is, 
-what its distinctive features and principles are, and why Catholic belief is reasonable. 
-In so doing, you will deepen your understanding of yourself as a rational, free being, 
-capable of affirming what is true and of freely embracing the purpose of you existence.
-
-## Journey
 A synthesis of readings and themes introduced in prior core instruction,
 this course draws together fundamental questions considered throughout the curriculum
 dealing with such topics as revelation, history, transcendence, suffering, death, and salvation.
@@ -58,7 +52,7 @@ theology and apply its consequences to their lives and the contemporary context.
 I, Dr. Stephan, will consider anything short of this to be a failure -- most likely mine, but possibly yours.
 This must be a team effort.
 
-To that end, we have a [Return to God Class Contract](https://www.coreystephan.com/teaching/return-to-god/contract)
+To that end, we have a [Return to God Class Survey and Contract](https://docs.google.com/forms/d/e/1FAIpQLSe90-gY5dTRUQW7zTdTkV1IWS_d4vZzgmWiCa9sM8fYARMsqg/viewform))
 that all of us, myself included, are required to sign by the end of the first week.
 
 Above all, note that you are expected:
