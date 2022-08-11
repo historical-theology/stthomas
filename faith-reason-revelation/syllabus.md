@@ -9,6 +9,11 @@ Fall 2022
 
 *A syllabus inspired by Sr. Albert Marie Surmanski, O.P., Ph.D.'s*
 
+NB: Throughout this document, I demarcate a handful of minor differences between expectations for
+ONLINE only (asynchronous) students and
+IN-PERSON (face-to-face) students.
+Everything that I do not demarcate with ONLINE or IN-PERSON applies equally to all students.
+
 Faith and reason are like two wings on which the human spirit rises to the contemplation of truth; 
 and God has placed in the human heart a desire to know the truth—in a word, 
 to know himself—so that, by knowing and loving God, 
@@ -40,21 +45,30 @@ By the end of the semester:
 I, Dr. Stephan, will consider anything short of this to be a failure -- most likely mine, but possibly yours.
 This must be a team effort.
 
-To that end, we have a [Faith, Reason, & Revelation Class Contract](https://www.***)
+To that end, we have a [Faith, Reason, & Revelation Class Survey & Contract](https://docs.google.com/forms/d/1EHNH6ztqMobRJvAll52tsI72hbdnscsWWuqdm5HjisA/edit?usp=forms_home&ths=true)
 that all of us, myself included, are required to sign by the end of the first week.
 
 Above all, note that you are expected:
 1. To do all assigned readings and watch or listen to all assigned lectures every week,
 2. To meet virtually in your study group every week and to upload the results of that meeting on Blackboard, and
-3. To prepare for a video meeting with the instructor (me, Dr. Stephan) every other Thursday (by doing #1 and #2).
+3. [ONLINE] To prepare for a video meeting with the instructor (me, Dr. Stephan) every other Thursday 
+(by doing #1 and #2).
+3. [IN-PERSON] To be prepared for engaging full-group and small group discussions every class meeting 
+(by doing #1 and #2).
 
-Each week, then, you will follow the following rhythm:
+Each week, then, ONLINE students will follow the following rhythm:
 
 * Reading and Lectures (Saturday, Monday-Thursday)-> 
 * Group Meeting (Wednesday or Thursday) -> 
 * Instructor Meeting (Friday)
 
+IN-PERSON students will do all reading and lectures in preparation for class,
+which will count as both the Group Meetings and the Instructor Meetings.
+IN-PERSON students also will be expected to prepare full-class group presentations
+every other week.
+
 ## Class Webpages
+
 The [class webpage](https://www.coreystephan.com/teaching/faith-reason-revelation), which I
 (Dr. Stephan) host on my professional website (coreystephan.com/teaching/faith-reason-revelation), will contain:
 * this syllabus,
@@ -69,15 +83,15 @@ All of these books are strictly required in order to participate in the class.
 
 1. The Catholic Study Bible: Third Edition [Catholic Study Bible]
 	* ISBN 9780190267230
-2. The Catechism of the Catholic Church
+2. The Catechism of the Catholic Church [CCC]
 	* ISBN 0385508190 or 1601376499
 	* Also available online on the [Vatican website](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)
-3.  Mother Teresa: Where There is Love, There is God
+3.  Mother Teresa: Where There is Love, There is God [Teresa]
 	* ISBN 9780385531801
-4. Brant Pitre: The Case for Jesus
-	* ISBN 0770435483-0o9
+4. Brant Pitre: The Case for Jesus [Pitre]
+	* ISBN 0770435483-0
 
-I will distribute other assigned readings either as .pdf scans or via hyperlinks
+I will distribute other assigned readings either as .pdf scans on Blackboard or via hyperlinks
 to online materials in the public domain.
 
 ## Required Electronic Equipment
@@ -91,41 +105,57 @@ You do *not* need to purchase any special, high-end equipment,
 but all of your audio and video (both live and recorded) *must* be clear.
 A smart phone generally will *not* work for our purposes (save, perhaps, one of the most expensive models).
 A tablet *might* work, but a proper computer 
-with a desktop operating system (GNU/Linux, MacOS, Windows, etc.) will be best.
+with a desktop operating system (GNU/Linux, *BSD, MacOS, Microsoft Windows, etc.) will be best.
 You *may* (of course) use the equipment that is included
 in your tuition in the Doherty Library (and elsewhere on campus).
 
 ## Contact
-* Email: TBD
-* Office Hours (TBD): meet.jit.si/DrStephanOffice
+
+* Email: corey.stephan@stthom.edu
+* Office Hours (TBD): meet.jit.si/DrStephan
 
 ## Themes 
 
-The course is divided into eight thematic sections of 1-2 weeks apiece,
-following the course of the Niceno-Constantinopolitan Creed
-(a.k.a. "The Creed"): 
+The course is divided into three thematic units:
 
-1. God and God as Trinity
-2. Creation
-3. Need for salvation (the Fall)
-4. Incarnation
-5. Passion
-6. Resurrection
-7. Holy Spirit's work, Church, and Sacraments
-8. End of time (the Eschaton)
+1. What are Faith and Reason?
+2. Apparent Clashes of Faith and Reason
+3. Revelation
 
 ## Grades
 
+ONLINE
 The class has four grades, each of which will
-allow you to foster (and showcase) a completely different set of skills:
+allow you to foster (and showcase) a different set of skills:
 1. (25%) 
-	Total of biweekly meetings with the instructor (me, Dr. Stephan)
+	Total of meetings with the instructor (me, Dr. Stephan) or TA every other week
 	* Graded as A (strong), C (weak), F (did not attend or obviously failed)
-	* 1 week automatically dropped (to account for life)
+	* 1 score automatically dropped (to account for life)
 2. (25%)
 	Total of weekly recorded meetings with semester-long learning groups
 	* Graded as A (strong), C (weak), F (did not write or obviously failed)
-	* 2 weeks automatically dropped (to account for life)
+	* 2 scores automatically dropped (to account for life)
+3. (20% for assignment + 5% for peer evaluations)
+	Partner 'staged' argument for and against one aspect of traditional Christian belief
+	* Graded 100, 95, 90, etc.
+	* Due the day before Midterm Break
+	* Each pair will be required to provide critical feedback on 3 other pairs'
+4. Liturgy attendance assignment
+	* You will attend an unfamiliar traditional liturgy (e.g. Catholic Latin Mass or Orthodox Divine Liturgy)
+	* Graded 100, 95, 90, etc.
+	* Due the day before Thanksgiving Break
+	* 3-5 page formal essay (our *only* formal writing assignment)
+
+IN-PERSON
+The class has four grades, each of which will
+allow you to foster (and showcase) a different set of skills:
+1. (25%)
+	Total of 3 required private learning group meetings with the instructor (me, Dr. Stephan) or TA
+	* Graded as A (strong), C (weak), F (did not attend or obviously failed)
+2. (25%) 
+	Total of semester-long learning group presentations every other week
+	* Graded as A (strong), C (weak), F (did not perform or obviously failed)
+	* 1 score automatically dropped (to account for life)
 3. (20% for assignment + 5% for peer evaluations)
 	Partner 'staged' argument for and against one aspect of traditional Christian belief
 	* Graded 100, 95, 90, etc.
@@ -139,152 +169,115 @@ allow you to foster (and showcase) a completely different set of skills:
 	
 ## Reading and Lecture Schedule
 
-### Theme 1: Creation
-*Fundamentally, unbreakably good -- but fragile*
+* ONLINE: You may complete each week's lectures and readings at your own pace, 
+as long as you finish all of them prior to your meetings.
 
-#### Week 1
+* IN-PERSON: You are expected to have completed each week's lectures and readings
+*prior to* the marked class period (Class I or Class II).
+
+### Theme 1: What are faith and reason?
+
+#### Week 1: Introductions
+
+[Class I]
+
 Lectures
+* What is this Faith, Reason, and Revelation class?
+* Why do I have a learning group in Faith, Reason, and Revelation class?
+* How will this Faith, Reason, and Revelation class 'work'?
 
-a. Class introductions:
-* What is this Return to God class?
-* Why do I have a spiritual partner?
-* How will this class 'work'?
+[Class II]
 
-b. Content:
-* Genesis and Creation
-
-Readings
-* Catholic Study Bible: Genesis Reading Guide (RG 120-134), Genesis Introduction (pp. 9-11), Genesis Ch. 1-3 (pp. 11-16)
-* St. Basil's Hexaemeron, Homilies I-IX (all) on [newadvent.org](https://www.newadvent.org/fathers/3201.htm)
-
-#### Week 2
 Lecture
-* Introduction to St. Maximus the Confessor
-
-Readings
-* Maximus's Cosmic Mystery: Introduction, Ambiguum 7, and Ambiguum 8 (pp. 13-78)
-* Terence Nichols's The Sacred Cosmos -- excerpts (scanned by Dr. Stephan)
-
-#### Week 3
-Lecture
-* Introduction to St. Francis of Assisi
+* Fides et Ratio: Partners or Foes?
 
 Reading
-* Bonaventure's Life of Francis (all)
+* CCC #36-43
 
-### Theme 2: Fall
-*Is all lost?*
+#### Week 2: What is faith?
 
-#### Week 4
+[Class I]
+
 Lecture
-* The Fall of Man
-
-Readings
-* John Milton's Paradise Lost, Book IV on [poetryfoundation.org](https://www.poetryfoundation.org/poems/45740/paradise-lost-book-4-1674-version)
-* Maximus's Cosmic Mystery: Ad Thalassium 61 (pp. 131-143)
-
-Encouraged Reading
-* Start Augustine's Confessions
-
-#### Week 5
-Lecture
-* St. Augustine's Journey through Sin and Death
-
-Readings
-* St. Augustine's Confessions: Chadwick's Introduction and Books I-VII (first half)
-
-#### Week 6
-Lecture
-* Augustine's Conversion to Christianity
+* Spe Salvi: Faith, Hope, and Salvation
 
 Reading
-* Augustine's Confessions: Books  VIII-XIII (second half)
+* Spe Salvi 1-12
 
-##### AUGUSTINE DOCUMENTARY
-Due before Fall Break
+[Class II]
 
-### Theme 3: Christ
-*The Savior of the Universe..but how?*
-
-Fall break's encouraged reading: Start John's Gospel
-
-#### Week 7
 Lecture
-* Introduction to John's Gospel
-
-Readings
-* Catholic Study Bible: John Reading Guide (RG 457-468), John Introduction (pp. 1486-87), 
-and John's Gospel (all, pp. 1487-1525) 
-
-#### Week 8
-Lecture
-* St. Maximus on Christ as the Unifier of the Cosmos
-
-Readings
-* Ambiguum 41, introduced and translated by Fr. Maximos Constas (scanned by Dr. Stephan)
-* Maximus's Cosmic Mystery: Ad Thalassium 21, 22, 42, and 60 (pp. 109-130)
-* Hans Urs von Balthasar's Cosmic Liturgy: The Universe According to Maximus the Confessor 
-(translated by Fr. Brian Daley, S.J.), excerpts (scanned by Dr. Stephan)
-
-#### Week 9
-Lecture
-* St. Thomas Aquinas on why God became Man
-
-Readings (all available on [aquinas.cc](aquinas.cc))
-* Summa Theologica III.1-21
-* Commentary on the Gospel of St. John: Prologue & Chapter 1
-
-### Theme 4: Liturgy
-*Living the traditional Christian life in the modern world*
-
-#### Week 10
-Lecture
-* What is liturgy?
-
-Readings
-* Ratzinger's Spirit of the Liturgy (all)
-
-#### Week 11
-Lecture
-* What is the purpose of liturgy?
+* Apophatic and Kataphatic Theology: What can we say about God?
 
 Reading
-* Schmemman's Life of the World (all)
+* CCC #39-43, #153-161
 
-#### Week 12
+#### Week 3: Faith Giving Joy
+
+[Class I]
+
 Lecture
-* How to Attend Liturgy: Preparation, Mindset, and Prayer
-
-NO READING
-##### LITURGICAL IMMERSION ASSIGNMENT
-Due before Thanksgiving break
-
-### Theme 5: Eternity
-*What is your τέλος? Dare you hope for Heaven?*
-
-#### Week 13
-Lecture
-* The Five Spiritual Senses: Taste, Touch, Smell, Hearing, and Sight
+* Faith Giving Joy
 
 Readings
-* Catholic Study Bible: Song of Songs Reading Guide (RG 303-307), Song of Songs Introduction (p. 890),
-	and Song of Songs (all) (pp. 891-898)
-* St. Gregory of Nyssa's Commentary on the Song of Songs, excerpts (scanned by Dr. Stephan)
+* Robert Cardinal Sarah, The Day is Now Far Spent (44-45, 224-225)
+* Martin Luther King's "I have a dream" speech
 
-#### Week 14
+[Class II]
+
 Lecture
-* Heaven as a Dance
+* Natural and Supernatural Hopes
 
 Reading
-* Pieper's In Tune with the World
+* Spe Salvi, 30-31
+
+
+### Unit 2: Apparent Clashes of Faith and Reason
+
+#### Week 4: Creation(ism) and Evolution(ism)
+
+[Class I]
+
+Lecture
+* Genesis and Creation: Genre Matters
+
+Reading
+* Catholic Study Bible: Genesis Reading Guide, Genesis Introduction, and Genesis Chapters 1-3
+
+[Class II]
+
+Lecture
+* Creation(ism) and Evolution(ism)
+
+Reading
+* St. John Paul II's Letter to Scientists
+
+#### Week 5: The Problem of Evil
+
+[Class I]
+
+Lecture
+* What is the Problem of Evil?
+
+Reading
+* CCC #309-314
+
+[Class II]
+
+Readings
+* Teresa, p.1-41
+* C.S. Lewis, The Problem of Pain, ch. 2: Divine Omnipotence
+
+#### Week 6: Original Sin
+
+[Class I]
+
+[Class II]
+
+Lecture
 
 #### Week 15
 NO LECTURE, NO READING
-
-##### ORIGINAL POEM OR SHORT STORY ABOUT HOPE FOR ETERNAL LIFE
-* Full class meeting
-* Time to be scheduled via Doodle poll
-* Ideally, on campus
 
 ## University Policies
 
