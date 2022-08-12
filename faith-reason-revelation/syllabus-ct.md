@@ -7,7 +7,7 @@ Corey Stephan, Ph.D.
 
 Fall 2022
 
-ONLINE and IN-PERSON, REGULAR SCHEDULE
+ONLINE, COMPRESSED TRACK A (CTA)
 
 *A syllabus inspired by Sr. Albert Marie Surmanski, O.P., Ph.D.'s*
 
@@ -63,11 +63,6 @@ Each week, then, ONLINE students will follow the following rhythm:
 * Reading and Lectures (Saturday, Monday-Thursday)-> 
 * Group Meeting (Wednesday or Thursday) -> 
 * Instructor Meeting (Friday)
-
-IN-PERSON students will do all reading and lectures in preparation for class,
-which will count as both the Group Meetings and the Instructor Meetings.
-IN-PERSON students also will be expected to prepare full-class group presentations
-every other week.
 
 ## Class Webpages
 
@@ -126,7 +121,6 @@ The course is divided into three thematic units:
 
 ## Grades
 
-ONLINE
 The class has four grades, each of which will
 allow you to foster (and showcase) a different set of skills:
 1. (25%) 
@@ -136,350 +130,29 @@ allow you to foster (and showcase) a different set of skills:
 2. (25%)
 	Total of weekly recorded meetings with learning groups
 	* Graded as A (strong), C (weak), F (did not write or obviously failed)
-	* 1 per week for both REGULAR and CT
 	* 2 scores automatically dropped (to account for life)
 3. (20% for assignment + 5% for peer evaluations)
 	PARTNER DEBATE
 	Partner 'staged' argument for and against one aspect of traditional Christian belief
 	* Graded 100, 95, 90, etc.
 	* All submissions, including responses,
-must be submitted the day before Midterm Break
+must be submitted the end of Unit 2, i.e. end of day on 9/16
 	* Each pair will be required to provide critical feedback on 3 other pairs'
 4. (25%)
 	CUMULATIVE ESSAY
 	Faith, Reason, and Revelation in Mark's Gospel
 	* An argumentative essay incorporating all the themes from the class
 	* Graded 100, 95, 90, etc.
-	* Due the day before Thanksgiving Break
+	* Due Friday, Sept. 30
 	* 3-5 page formal essay (our *only* formal writing assignment)
 	* Revision is expected
 
-IN-PERSON
-The class has four grades, each of which will
-allow you to foster (and showcase) a different set of skills:
-1. (25%)
-	Total of 3 one-on-one meetings with the instructor (me, Dr. Stephan) or TA
-(once per unit)
-	* Graded as A (strong), C (weak), F (did not attend or obviously failed)
-2. (25%) 
-	Total of 5 learning group presentations 
-(approximately every 3rd week)
-	* Graded as A (strong), C (weak), F (did not perform or obviously failed)
-	* 1 score automatically dropped (to account for life)
-3. (20% for assignment + 5% for peer evaluations)
-	PARTNER DEBATE
-	Partner 'staged' argument for and against one aspect of traditional Christian belief
-	* Graded 100, 95, 90, etc.
-	* All submissions, including responses, must be submitted before Midterm Break
-(exact dates & times TBD)
-	* Each pair will be required to provide critical feedback on 3 other pairs'
-4. (25%)
-	FINAL ESSAY
-	Faith, Reason, and Revelation in Mark's Gospel
-	* An argumentative essay incorporating all the themes from the class
-	* Graded 100, 95, 90, etc.
-	* Due the day before Thanksgiving break
-	* 3-5 page formal essay (our *only* formal writing assignment)
-	* Revision is expected
-	
 ## Reading and Lecture Schedule
-
-* ONLINE: You may complete each week's lectures and readings at your own pace, 
-as long as you finish all of them prior to your meetings.
-
-* IN-PERSON: You are expected to have completed each week's lectures and readings
-*prior to* the marked class period (Class I or Class II).
-
-### Unit 1: What are faith and reason?
-
-#### Week 1: Introductions
-
-8/22 & 8/24
-
-[Class I]
-
-Lectures
-* What is this Faith, Reason, and Revelation class?
-* How will this Faith, Reason, and Revelation class work?
-* Faith, Reason, and Revelation Syllabus Exposé
-
-[Class II]
-
-Lectures
-* The Best Online Sources for Catholic Theology
-* How to Read and Think Like a Theologian
-
-#### Week 2: What is faith?
-
-8/29 & 8/31
-
-[Class I]
-
-Lecture
-* Fides et Ratio: Partners or Foes?
-
-Readings
-* CCC #36-43
-* Spe Salvi 1-31
-
-[Class II]
-
-Lecture
-* [Historical Recording] Martin Luther King, Jr.'s "I have a dream" speech
-
-Reading
-* Robert Cardinal Sarah, The Day is Now Far Spent (44-45, 224-225)
-
-#### Week 3: What is reason?
-
-9/5 - LABOR DAY
-9/7
-
-Lecture
-* Apophatic and Kataphatic Theology: What can we say about God?
-
-Reading
-* CCC #39-43, #153-161
-
-##### First One-on-One Meeting w/Instructor or TA
-
-### Unit 2: Apparent Clashes of Faith and Reason
-
-#### Week 4: Creation(ism) and Evolution(ism)
-
-9/12 & 9/14
-
-[Class I]
-
-Lecture
-* Genesis and Creation: Genre Matters
-
-Reading
-* Catholic Study Bible: Genesis Reading Guide, Genesis Introduction, and Genesis Chapters 1-3
-
-[Class II]
-
-Lecture
-* Creation(ism) and Evolution(ism)
-
-Reading
-* St. John Paul II's Letter to Scientists
-
-#### Week 5: Original Sin
-
-9/19 & 9/21
-
-[Class I]
-
-Lecture
-* What is original sin?
-
-Reading
-* CCC #396-401
-
-[Class II]
-
-Lecture
-* Am I a sinner?
-
-Reading
-* CCC #1849-1863
-
-#### Week 6: The Problem of Evil, pt. 1
-
-9/26 & 9/28
-
-[Class I]
-
-Lecture
-* What is the Problem of Evil?
-
-Readings
-* Larrimore, The Problem of Evil: A Reader, Introduction (scanned)
-* CCC #309-314
-
-[Class II]
-
-Readings
-* Teresa, p.1-41
-* C.S. Lewis, The Problem of Pain, ch. 2: Divine Omnipotence
-
-#### Week 7: The Problem of Evil, pt. 2
-
-10/3 & 10/5
-
-[Class I]
-
-Readings
-* Plato, Timaeus 27c-31b (scanned from Larrimore)
-* St. Irenaeus of Lyons, Against Heresies IV.1-2 (scanned from Larrimore)
-
-[Class II]
-
-*PARTNER DEBATES DUE BY END OF DAY ON 10/5*
-
-*RESPONSES TO PARTNER DEBATES DUE BY END OF DAY ON 10/7*
-
-##### Second One-on-One Meeting w/Instructor or TA
-
-### Unit 3: Revelation
-
-#### Week 8: Grace
-
-10/10 - FALL BREAK
-
-10/12
-
-[Class I]
-
-Lecture
-* What is grace?
-
-Reading
-* CCC #1804-1813
-
-[Class II]
-
-Lectures
-* What is grace?
-* The Seven Gifts of the Holy Spirit
-
-Readings
-* Teresa, p.307-319
-* CCC #1804-1831
-
-#### Week 9: Biblical Inspiration
-
-10/17 & 10/19
-
-[Class I]
-
-Lecture
-* Biblical Inspiration: Divine and Human
-
-Readings
-* Catholic Study Bible: Reading Guide, pp. 11-32 (The Biblical Texts and Their Backgrounds
-and The Bible in Catholic Life)
-
-[Class II]
-
-Reading
-* Pitre, ch. 1
-
-#### Week 10: Christ and the Church
-
-10/24 & 10/26
-
-[Class I]
-
-Lecture
-* Who did Jesus say that He is?
-
-Reading
-* Pitre, ch. 2-3
-
-[Class II]
-
-Lecture
-* Who are the Fathers of the Church?
-
-Reading
-* Pitre, ch. 4-5
-
-#### Week 11: Veracity of the Gospels
-
-10/31 & 11/2
-
-[Class I]
-
-Lecture
-* What are the Gospels?
-
-Reading
-* Pitre, ch. 6-7
-
-[Class II]
-
-Lecture
-* What did the Apostles see in Jesus?
-
-Reading
-* Pitre, ch. 8-10
-
-#### Week 12: Mark, pt. 1
-
-11/7 & 11/9
-
-[Class I]
-
-Lecture
-* Essay Assignment: Faith, Reason, and Revelation in Mark's Gospel
-
-Reading
-* Catholic Study Bible: Mark Reading Guide, Mark Introduction
-
-[Class II]
-
-Reading
-* Mark 1-8
-
-#### Week 13: Mark, pt. 2
-
-11/14 & 11/16
-
-[Class I]
-
-Reading
-* Mark 9-16
-
-[Class II]
-
-Lecture
-* Tips for Writing a Theology Essay
-
-*For IN-PERSON students, class on 11/16 will be a writing workshop.*
-
-##### Third One-on-One Meeting w/Instructor or TA
-Special focus on essays
-
-#### Week 14: Essays + Thanksgiving
-
-11/21
-
-[Class I]
-
-*ESSAYS DUE BY END OF DAY ON 11/22*
-
-11/23 - THANKSGIVING BREAK
-
-#### Week 15: Miracles + Resurrection
-
-11/28 & 11/30
-
-[Class I]
-
-Lecture
-* What are miracles?
-
-Reading
-* Nichols article, p. 703-714
-
-[Class II]
-Lecture
-* What is the Resurrection?
-
-*ORIGINAL ESSAYS RETURNED BY CLASS ON 11/30*
-
-#### Week 16: NO CLASS
-
-*REVISED ESSAYS DUE BY END OF DAY ON 12/6*
-
-## Reading and Lecture Schedule: CT
 
 You may complete each week's lectures and readings at your own pace, 
 as long as you finish all of them prior to your meetings.
 
-### Unit 1: What are faith and reason?
+*Unit 1: What are faith and reason?*
 
 #### Week of 8/22
 
@@ -507,15 +180,9 @@ Lecture
 Reading
 * Robert Cardinal Sarah, The Day is Now Far Spent (44-45, 224-225)
 
-#### Week of 8/29
+#### 1. Week of 8/29
 
-8/29 & 8/31
-
-
-#### Week 3: What is reason?
-
-9/5 - LABOR DAY
-9/7
+Set I: What is reason?
 
 Lecture
 * Apophatic and Kataphatic Theology: What can we say about God?
@@ -525,13 +192,9 @@ Reading
 
 ##### First One-on-One Meeting w/Instructor or TA
 
-### Unit 2: Apparent Clashes of Faith and Reason
+*Unit 2: Apparent Clashes of Faith and Reason*
 
-#### Week 4: Creation(ism) and Evolution(ism)
-
-9/12 & 9/14
-
-[Class I]
+Set II: Genesis & Creation
 
 Lecture
 * Genesis and Creation: Genre Matters
@@ -539,19 +202,15 @@ Lecture
 Reading
 * Catholic Study Bible: Genesis Reading Guide, Genesis Introduction, and Genesis Chapters 1-3
 
-[Class II]
-
 Lecture
 * Creation(ism) and Evolution(ism)
 
 Reading
 * St. John Paul II's Letter to Scientists
 
-#### Week 5: Original Sin
+#### 2. Week of 9/5
 
-9/19 & 9/21
-
-[Class I]
+Set I: Sin
 
 Lecture
 * What is original sin?
@@ -559,19 +218,13 @@ Lecture
 Reading
 * CCC #396-401
 
-[Class II]
-
 Lecture
 * Am I a sinner?
 
 Reading
 * CCC #1849-1863
 
-#### Week 6: The Problem of Evil, pt. 1
-
-9/26 & 9/28
-
-[Class I]
+Set II: The Problem of Evil
 
 Lecture
 * What is the Problem of Evil?
@@ -580,61 +233,29 @@ Readings
 * Larrimore, The Problem of Evil: A Reader, Introduction (scanned)
 * CCC #309-314
 
-[Class II]
-
 Readings
 * Teresa, p.1-41
 * C.S. Lewis, The Problem of Pain, ch. 2: Divine Omnipotence
-
-#### Week 7: The Problem of Evil, pt. 2
-
-10/3 & 10/5
-
-[Class I]
 
 Readings
 * Plato, Timaeus 27c-31b (scanned from Larrimore)
 * St. Irenaeus of Lyons, Against Heresies IV.1-2 (scanned from Larrimore)
 
-[Class II]
+#### 3. Week of 9/12
 
-*PARTNER DEBATES DUE BY END OF DAY ON 10/5*
+Partner Debates
 
-*RESPONSES TO PARTNER DEBATES DUE BY END OF DAY ON 10/7*
+*PARTNER DEBATES DUE BY END OF DAY ON 9/16*
+
+*RESPONSES TO PARTNER DEBATES DUE BY END OF DAY ON 9/21*
 
 ##### Second One-on-One Meeting w/Instructor or TA
 
-### Unit 3: Revelation
+*Unit 3: Revelation*
 
-#### Week 8: Grace
+#### 4. Week of 9/19
 
-10/10 - FALL BREAK
-
-10/12
-
-[Class I]
-
-Lecture
-* What is grace?
-
-Reading
-* CCC #1804-1813
-
-[Class II]
-
-Lectures
-* What is grace?
-* The Seven Gifts of the Holy Spirit
-
-Readings
-* Teresa, p.307-319
-* CCC #1804-1831
-
-#### Week 9: Biblical Inspiration
-
-10/17 & 10/19
-
-[Class I]
+Set I: Biblical Inspiration
 
 Lecture
 * Biblical Inspiration: Divine and Human
@@ -643,16 +264,10 @@ Readings
 * Catholic Study Bible: Reading Guide, pp. 11-32 (The Biblical Texts and Their Backgrounds
 and The Bible in Catholic Life)
 
-[Class II]
-
 Reading
 * Pitre, ch. 1
 
-#### Week 10: Christ and the Church
-
-10/24 & 10/26
-
-[Class I]
+Set II: Christ and the Church
 
 Lecture
 * Who did Jesus say that He is?
@@ -660,19 +275,18 @@ Lecture
 Reading
 * Pitre, ch. 2-3
 
-[Class II]
-
 Lecture
 * Who are the Fathers of the Church?
 
 Reading
 * Pitre, ch. 4-5
 
-#### Week 11: Veracity of the Gospels
+#### 5. Week of 9/26
 
-10/31 & 11/2
+Set I: Gospels and Jesus
 
-[Class I]
+Lecture
+* Essay Assignment: Faith, Reason, and Revelation in Mark's Gospel
 
 Lecture
 * What are the Gospels?
@@ -680,82 +294,54 @@ Lecture
 Reading
 * Pitre, ch. 6-7
 
-[Class II]
-
 Lecture
 * What did the Apostles see in Jesus?
 
 Reading
 * Pitre, ch. 8-10
 
-#### Week 12: Mark, pt. 1
-
-11/7 & 11/9
-
-[Class I]
-
-Lecture
-* Essay Assignment: Faith, Reason, and Revelation in Mark's Gospel
-
+Set II: Essay Assignment
 Reading
-* Catholic Study Bible: Mark Reading Guide, Mark Introduction
-
-[Class II]
-
-Reading
-* Mark 1-8
-
-#### Week 13: Mark, pt. 2
-
-11/14 & 11/16
-
-[Class I]
-
-Reading
-* Mark 9-16
-
-[Class II]
+* Catholic Study Bible: Mark Reading Guide, Mark Introduction, Mark's Gospel (all)
 
 Lecture
 * Tips for Writing a Theology Essay
 
-*For IN-PERSON students, class on 11/16 will be a writing workshop.*
-
 ##### Third One-on-One Meeting w/Instructor or TA
 Special focus on essays
 
-#### Week 14: Essays + Thanksgiving
+*ESSAYS DUE BY END OF DAY ON 10/1*
 
-11/21
+#### 6. Week of 10/3
 
-[Class I]
-
-*ESSAYS DUE BY END OF DAY ON 11/22*
-
-11/23 - THANKSGIVING BREAK
-
-#### Week 15: Miracles + Resurrection
-
-11/28 & 11/30
-
-[Class I]
+Set I: Grace
 
 Lecture
-* What are miracles?
+* What is grace?
 
 Reading
-* Nichols article, p. 703-714
+* CCC #1804-1813
 
-[Class II]
-Lecture
-* What is the Resurrection?
+Set II: Gifts of the Holy Spirit
 
-*ORIGINAL ESSAYS RETURNED BY CLASS ON 11/30*
+Lectures
+* The Seven Gifts of the Holy Spirit
+
+Readings
+* Teresa, p.307-319
+* CCC #1804-1831
+
+*ORIGINAL ESSAYS RETURNED BY END OF DAY ON 10/5*
+
+#### 7. Week of 10/10
+
+NO LECTURES OR READINGS
+
+*REVISED ESSAYS DUE BY END OF DAY ON 10/10*
 
 #### Week 16: NO CLASS
 
 *REVISED ESSAYS DUE BY END OF DAY ON 12/6*
-
 
 ## University Policies
 
