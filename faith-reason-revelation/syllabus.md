@@ -300,6 +300,9 @@ Readings
 
 [Class II]
 
+Lecture
+* Sr. Albert Marie on Mother Teresa (Blackboard, 6 [Excursus])
+
 Readings
 * Teresa, p.1-41
 * C.S. Lewis, The Problem of Pain, ch. 2: Divine Omnipotence
@@ -309,6 +312,9 @@ Readings
 10/3 & 10/5
 
 [Class I]
+
+Lectures
+* Sr. Albert Marie on the Problem of Evil (Blackboard, 6 & 7)
 
 Readings
 * Plato, Timaeus 27c-31b (scanned from Larrimore)
@@ -324,7 +330,7 @@ Readings
 
 ### Unit 3: Revelation
 
-#### Week 8: Grace
+#### Week 8: Grace & Virtue
 
 10/10 - FALL BREAK
 
@@ -333,7 +339,7 @@ Readings
 [Class I]
 
 Lecture
-* What is grace?
+* Sr. Albert Marie on Grace (Blackboard 8)
 
 Reading
 * CCC #1804-1813
@@ -355,7 +361,7 @@ Readings
 [Class I]
 
 Lecture
-* Biblical Inspiration: Divine and Human
+* Sr. Albert Marie on Biblical Inspiration (Blackboard 9)
 
 Readings
 * Catholic Study Bible: Reading Guide, pp. 11-32 (The Biblical Texts and Their Backgrounds
@@ -458,15 +464,16 @@ Special focus on essays
 
 [Class I]
 
-Lecture
+Lectures
 * What are miracles?
+* Miracles in Lourdes (Blackboard 15.1)
 
 Reading
 * Nichols article, p. 703-714
 
 [Class II]
 Lecture
-* What is the Resurrection?
+* Bishop Barron on the Resurrection of Jesus (Blackboard 15.2)
 
 *ORIGINAL ESSAYS RETURNED BY CLASS ON 11/30*
 
