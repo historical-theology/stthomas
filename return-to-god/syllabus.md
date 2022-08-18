@@ -383,3 +383,10 @@ Other assignments are too linked to specific moments in time for revision to be 
 but it is important to me that you be able to be graded for your best work,
 which might mean needing to revise it after you have received my constructive feedback.
 
+### Statement on Software Freedom
+I am a longtime advocate of Free Software as defined by the [Free Software Foundation](https://www.gnu.org/philosophy/free-sw.en.html).
+I encourage you to teach yourself about software freedom.
+For my part, I promise that I will never require you to use non-free software,
+except tools that are currently required as part of our experience at the University of St. Thomas 
+(e.g. Microsoft Teams). To the contrary, whenever possible, I will encourage 
+or require you even to submit your work in formats with open standards.
