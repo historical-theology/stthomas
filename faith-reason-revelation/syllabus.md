@@ -528,19 +528,22 @@ Even one 'weak link' can tear down everyone's experience; you
 (as an individual student) really do matter to the class as a whole.
 
 With all that in mind, let me make this policy as simple as possible:
-1. With legitimate excuse(s), I will accept up to 2 late submissions from you with no penalty.
+1. With legitimate excuse(s), I will accept 1 late submission from you with no penalty.
 2. Without legitimate excuse(s), or if you are submitting a third item
 (of three formal submissions, no less!) late, then you will incur a 10% penalty per day.
 3. After the grading deadline has passed at the end of the semester,
 I will not accept any more work.
 
 ### Revision
-For either the Augustine video presentation or the Liturgy attendance assignment,
-if you are not satisfied with your grade,
+For whichever projects for which this is possible:
+If you are not satisfied with your grade,
 you may do a full revision (or even start from scratch) and resubmit
 for full credit as though it were your first submission.
 
-Other assignments are too linked to specific moments in time for revision to be possible,
-but it is important to me that you be able to be graded for your best work,
-which might mean needing to revise it after you have received my constructive feedback.
-
+### Statement on Software Freedom
+I am a longtime advocate of Free Software as defined by the [Free Software Foundation](https://www.gnu.org/philosophy/free-sw.en.html).
+I encourage you to teach yourself about software freedom.
+For my part, I promise that I will never require you to use non-free software,
+except tools that are currently required as part of our experience at the University of St. Thomas 
+(e.g. Microsoft Teams). To the contrary, whenever possible, I will encourage 
+or require you even to submit your work in formats with open standards.
