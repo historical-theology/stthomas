@@ -120,30 +120,35 @@ In lectures and discussions, we  will consider each of these themes as they alig
 The class has five grades worth 20% apiece, each of which will allow you to foster (and showcase) a different set of skills:
 
 
-I. Total of required on-on-one meetings with the instructor (me, Dr. Stephan)
-	* Graded as A (strong), C (weak), F (did not attend or obviously failed)
-	* 1 week automatically dropped (to account for life)
+I. Total of required on-on-one meetings (partly oral exams) with the instructor (me, Dr. Stephan)
+
+* Graded as A (strong), B (good), C/D (poor), and F (did not attend or obviously failed)
+* 1 week automatically dropped (to account for life)
 
 II. Total of required recorded meetings with semester-long spiritual partner
-	* Graded as A (strong), C (weak), F (did not write or obviously failed)
-	* 1 week automatically dropped (to account for life)
+
+* Graded as A (strong), B (good), C/D (poor), and F (did not write or obviously failed)
+* 1 week automatically dropped (to account for life)
 
 III. Augustine spiritual journey documentary / video presentation
-	* Graded 100, 95, 90, etc.
-	* Due the day before Midterm Break
-	* The whole class will be invited to provide feedback
+
+* Graded 100, 95, 90, etc.
+* Due the day before Midterm Break
+* The whole class will be invited to provide feedback
 	
 IV. Liturgy attendance assignment
-	* You will attend an unfamiliar traditional liturgy (e.g. Catholic Latin Mass or Orthodox Divine Liturgy)
-	* Graded 100, 95, 90, etc.
-	* Due the day before Thanksgiving Break
-	* 3-5 page formal essay (our *only* formal writing assignment)
+
+* You will attend an unfamiliar traditional liturgy (e.g. Catholic Latin Mass or Orthodox Divine Liturgy)
+* Graded 100, 95, 90, etc.
+* Due the day before Thanksgiving Break
+* 3-5 page formal essay (our *only* formal writing assignment)
 
 V. Original poem or short story recitation about Hope for Eternal Life
-	* Must draw upon all five class themes (Creation, Fall, Christ, Liturgy, and Eternity)
-	* Recital must be 5-10 minutes
-	* To be performed during a full-class meeting before Christmas break (our *only* full-class meeting)
-	* Graded 100, 95, 90, etc.
+
+* Must draw upon all five class themes (Creation, Fall, Christ, Liturgy, and Eternity)
+* Recital must be 5-10 minutes
+* To be performed during a full-class meeting before Christmas break (our *only* full-class meeting)
+* Graded 100, 95, 90, etc.
 	
 ***	
 	
