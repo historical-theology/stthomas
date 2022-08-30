@@ -3,13 +3,16 @@
 
 # The Return to God
 
-Corey Stephan, Ph.D.
+Instructor: Corey Stephan, Ph.D.
 
 * Email: corey.stephan@stthom.edu
-* Office Hours (TBD): meet.jit.si/DrStephan
+* Office Hours: Mondays from 8:00-9:30 AM & Tuesdays from 1:00-2:30 PM in [meet.jit.si/DrStephan](meet.jit.si/DrStephan)
 
-Fall 2022
-Online and Asynchronous
+Fall 2022: ONLINE AND ASYNCHRONOUS
+
+Notes:
+1. Some submission deadlines are to be determined.
+2. I reserve the right as the instructor to revise this syllabus at any time during the semester.
 
 ***
 
@@ -21,9 +24,9 @@ You have made us for yourself, O Lord, and our hearts are restless until they re
 
 -St. Augustine, Confessions I
 
-***
-
 A synthesis of readings and themes introduced in prior core instruction, this course draws together fundamental questions considered throughout the curriculum dealing with such topics as revelation, history, transcendence, suffering, death, and salvation. The course orients life in the context of a Christian sacramental vision to the final end of the human person: the contemplation of the vision of God.
+
+***
 
 ## Spiritual Partner
 
@@ -53,6 +56,8 @@ Above all, note that you are expected:
 1. To do all assigned readings and watch or listen to all assigned lectures every week,
 2. To prepare to record a video meeting with a class spiritual partner every Wednesday or Thursday (by doing #1), and
 3. To prepare for a video meeting with the instructor (me, Dr. Stephan) every Friday (by doing #1 and #2).
+
+***
 
 ## Class Webpages
 The [class webpage](https://www.coreystephan.com/teaching/return-to-god), which I (Dr. Stephan) host on my professional website (coreystephan.com/teaching/return-to-god), will contain:
@@ -114,6 +119,8 @@ The course is divided into five thematic units that will last three weeks apiece
 In lectures and discussions, we  will consider each of these themes as they align somewhat chronologically inside both
 1. Salvation History and
 2. The Niceno-Constantinopolitan Creed
+
+***
 
 ## Grades
 

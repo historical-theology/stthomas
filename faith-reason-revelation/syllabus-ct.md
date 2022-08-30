@@ -3,17 +3,22 @@
 
 # Faith, Reason, and Revelation
 
-Corey Stephan, Ph.D.
-
+Instructor: Corey Stephan, Ph.D.
 
 * Email: corey.stephan@stthom.edu
-* Office Hours (TBD): meet.jit.si/DrStephan
+* Office Hours: Mondays from 8:00-9:30 AM & Tuesdays from 1:00-2:30 PM in [meet.jit.si/DrStephan](meet.jit.si/DrStephan)
 
-Fall 2022
-
-ONLINE, COMPRESSED TRACK A (CTA)
+Fall 2022: ONLINE, COMPRESSED TRACK A (CTA)
 
 *A syllabus inspired by Sr. Albert Marie Surmanski, O.P., Ph.D.'s*
+
+Notes:
+
+1) Throughout this document, I demarcate a handful of minor differences between expectations for ONLINE only (asynchronous) students and IN-PERSON (face-to-face) students. Everything that I do not demarcate with ONLINE or IN-PERSON applies equally to all students.
+
+2) Some submission deadlines are to be determined.
+
+3) I reserve the right as the instructor to revise this syllabus at any time during the semester.
 
 ***
 
@@ -21,11 +26,9 @@ Faith and reason are like two wings on which the human spirit rises to the conte
 
 - St. John Paul II, Fides et Ratio, §1
 
-***
+An introductory course in fundamental Catholic theology, presenting the basic openness of the human person to divine revelation, the historical veracity of that revelation, and selected major theological themes in the Catholic worldview, with an eye to their coherence with one another and with the human person.
 
-An introductory course in fundamental Catholic theology, presenting the basic openness of the human person to divine revelation,
-the historical veracity of that revelation, and selected major theological themes in the Catholic worldview,
-with an eye to their coherence with one another and with the human person.
+***
 
 ## Journey
 In this course, you will be introduced to what Catholic theology is, what its distinctive features and principles are, and why Catholic belief is reasonable. In so doing, you will deepen your understanding of yourself as a rational, free being, 
@@ -48,6 +51,8 @@ Above all, note that you are expected:
 1. To do all assigned readings and watch or listen to all assigned lectures every week,
 2. To meet virtually in your study group every week and, when required, to upload the results of those meetings in Blackboard, and
 3. To prepare for a video meeting with the instructor (me, Dr. Stephan) at least 2-3 times, approximately once per unit.
+
+***
 
 ## Class Webpages
 
@@ -83,6 +88,8 @@ I will distribute other assigned readings either as .pdf scans on Blackboard or 
 
 You *must* be able to do live video conferencing, as well as self-recordings, for this class. You do *not* need to purchase any special, high-end equipment, but all of your audio and video (both live and recorded) *must* be clear. A smart phone generally will *not* work for our purposes (save, perhaps, one of the most expensive models). A tablet *might* work, but a proper computer with a desktop operating system (GNU/Linux, FreeBSD, OpenBSD, MacOS, Microsoft Windows, etc.) will be best. You *may* (of course) use the equipment that is included in your tuition in the Doherty Library (and elsewhere on campus).
 
+***
+
 ## Themes 
 
 The course is divided into three thematic units:
@@ -91,35 +98,41 @@ The course is divided into three thematic units:
 2. Apparent Clashes of Faith and Reason
 3. Revelation
 
+***
+
 ## Grades
 
 The class has four grades, each of which will allow you to foster (and showcase) a different set of skills:
 
 I. (25%) ON-ON-ONE MEETINGS
-	* Total of 3 one-on-one meetings (partly oral exams) with the instructor (me, Dr. Stephan) or TA (once per unit)
-	* Graded as A (strong), B (good), C/D (poor), and F (did not attend or obviously failed)
+
+* Total of 3 one-on-one meetings (partly oral exams) with the instructor (me, Dr. Stephan) or TA (once per unit)
+* Graded as A (strong), B (good), C/D (poor), and F (did not attend or obviously failed)
 
 
 II. (25%) LEARNING GROUP RECORDINGS
-	* Total of regular recorded meetings with learning groups
-	* Graded as A (strong), B (good), C/D (poor), and F (did not write or obviously failed)
-	* 1 score automatically dropped (to account for life)
+
+* Total of regular recorded meetings with learning groups
+* Graded as A (strong), B (good), C/D (poor), and F (did not write or obviously failed)
+* 1 score automatically dropped (to account for life)
 
 
 III. (20% for assignment + 5% for peer evaluations) PARTNER DEBATE
-	* Partner 'staged' argument for and against one aspect of traditional Christian belief
-	* Graded 100, 95, 90, etc.
-	* All submissions, including responses, must be submitted the day before Midterm Break
-	* Each pair will be required to provide critical feedback on 3 other pairs'
+
+* Partner 'staged' argument for and against one aspect of traditional Christian belief
+* Graded 100, 95, 90, etc.
+* All submissions, including responses, must be submitted the day before Midterm Break
+* Each pair will be required to provide critical feedback on 3 other pairs'
 
 
 IV. (25%) CUMULATIVE ESSAY
-	* Faith, Reason, and Revelation in Mark's Gospel
-	* An argumentative essay incorporating all the themes from the class
-	* Graded 100, 95, 90, etc.
-	* Due the day before Thanksgiving Break
-	* 3-5 page formal essay (our *only* formal writing assignment)
-	* Revision is expected
+
+* Faith, Reason, and Revelation in Mark's Gospel
+* An argumentative essay incorporating all the themes from the class
+* Graded 100, 95, 90, etc.
+* Due the day before Thanksgiving Break
+* 3-5 page formal essay (our *only* formal writing assignment)
+* Revision is expected
 
 
 ## Reading and Lecture Schedule
