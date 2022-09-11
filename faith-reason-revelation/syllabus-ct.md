@@ -106,7 +106,7 @@ The class has four grades, each of which will allow you to foster (and showcase)
 
 I. (25%) ON-ON-ONE MEETINGS
 
-* Total of 3 one-on-one meetings (partly oral exams) with the instructor (me, Dr. Stephan) or TA (once per unit)
+* Total of 2 one-on-one meetings (partly oral exams) with the instructor (me, Dr. Stephan) or TA (one at midterm time and one at the end of the semester)
 * Graded as A (strong), B (good), C/D (poor), and F (did not attend or obviously failed)
 
 
@@ -256,19 +256,7 @@ Readings
 * Plato, Timaeus 27c-31b (scanned from Larrimore)
 * St. Irenaeus of Lyons, Against Heresies IV.1-2 (scanned from Larrimore)
 
-#### 3. Week of 9/12
-
-Partner Debates
-
-*PARTNER DEBATES DUE BY END OF DAY ON 9/16*
-
-*RESPONSES TO PARTNER DEBATES DUE BY END OF DAY ON 9/21*
-
-##### Second One-on-One Meeting w/Instructor or TA
-
-*Unit 3: Revelation*
-
-#### 4. Week of 9/19
+#### 3. Week of 9/11
 
 Set I: Biblical Inspiration
 
@@ -303,7 +291,9 @@ Reading
 
 * Pitre, ch. 4-5
 
-#### 5. Week of 9/26
+*Group Recording 3: Sin and Evil due 9/16 at 3:00 PM*
+
+#### 5. Week of 9/19
 
 Set I: Gospels and Jesus
 
@@ -337,12 +327,24 @@ Lecture
 
 * Tips for Writing a Theology Essay
 
+
+Partner Debates
+
+*PARTNER DEBATES DUE BY 11:59 PM ON 9/21*
+
+*RESPONSES TO PARTNER DEBATES DUE BY 11:59 PM ON 9/24*
+
+Also:
+
+*Group Recording 4: Grace and Virtue due 9/23 at 3:00 PM*
+
+
 ##### Third One-on-One Meeting w/Instructor or TA
 Special focus on essays
 
 *ESSAYS DUE BY END OF DAY ON 10/1*
 
-#### 6. Week of 10/3
+#### 6. Week of 9/26
 
 Set I: Grace
 
@@ -365,17 +367,17 @@ Readings
 * Teresa, p.307-319
 * CCC #1804-1831
 
+*Group Recording 5: Biblical Inspiration + Christ's Self-Proclamation due 9/30 at 3:00 PM*
+
 *ORIGINAL ESSAYS RETURNED BY END OF DAY ON 10/5*
 
-#### 7. Week of 10/10
+#### 7. Week of 10/3
 
 NO LECTURES OR READINGS
 
 *REVISED ESSAYS DUE BY END OF DAY ON 10/10*
 
-#### Week 16: NO CLASS
-
-*REVISED ESSAYS DUE BY END OF DAY ON 12/6*
+*Group Recording 6: Gospels, especially Mark due 10/7 at 3:00 PM*
 
 ## University Policies
 
