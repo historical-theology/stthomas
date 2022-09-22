@@ -33,25 +33,32 @@ For example, you might ask:
 
 	* Your clear **thesis statement** would be something to this effect: 
 		
-			The Gospel of Mark posits the solution to the moral aspect of the Problem of Evil that all moral evils are a consequence of humans freely choosing to reject God.
+			The Gospel of Mark posits the solution to the moral aspect of the Problem of Evil 
+			that all moral evils are a consequence of humans freely choosing to reject God.
 			
 	* You would thus continue the introduction by previewing your main points, which might look like this:
 	
-			The Gospel specifically points to this solution at three places: when Jesus is tempted in the wilderness (Mark Ch:VV), 
-			when the crowds repeatedly harass Jesus (e.g. Ch:VV and Ch:VV), and when Jesus is sentenced to death (Ch:VV). 
+			The Gospel specifically points to this solution at three places: 
+			when Jesus is tempted in the wilderness (Mark Ch:VV), 
+			when the crowds repeatedly harass Jesus (e.g. Ch:VV and Ch:VV), 
+			and when Jesus is sentenced to death (Ch:VV). 
 			
 	* Subsequent paragraphs would fill out (as it were) each of these main points. The first body paragraph, therefore, might go as follows:
 	
-			When Satan tempts Jesus in the wilderness, he seems to take for granted that Jesus, as a man, will freely 				
-			choose to reject God. 
-			When he says, " ... ," he points to free will as his primary target in leading all people (not only his 
+			When Satan tempts Jesus in the wilderness, he seems to take for granted 
+			that Jesus, as a man, will freely choose to reject God. 
+			When he says, " ... ," he points to free will as his 
+			primary target in leading all people (not only his 
 			current target, Jesus) away from God's plans for our lives.
 			
 	* The conclusion would summarize the argument while pointing to something greater (*So what?*):
 	
-			By showing the full gravity of the evil that flows from human free will, Mark's Gospel suggests
-			a traditional theodicy: namely, that God created free will as a gift that outweighs the gravity of moral 			
-			evils. The Resurrection, in fact, infinitely outweighs any and all moral evils inasmuch as... 
+			By showing the full gravity of the evil that flows 
+			from human free will, Mark's Gospel suggests
+			a traditional theodicy: namely, that God created free will 
+			as a gift that outweighs the gravity of moral 			
+			evils. The Resurrection, in fact, infinitely outweighs 
+			any and all moral evils inasmuch as... 
 
 
 ***
@@ -100,7 +107,8 @@ Note that I have not even had to specify the translation quoted, since we have a
 Here is another example:
 
 		Yet, the genre of a text always tells us something 
-		about what the text's author meant to communicate (Stephan lecture "Genesis & Creation: Genre Matters").
+		about what the text's author 
+		meant to communicate (Stephan lecture "Genesis & Creation: Genre Matters").
 
 Part of my goal as the instructor with this simplicity regarding citations is to allow you to focus on the creative and exciting process of writing rather than the inescapable drudgery that is academic citational style. You will have plenty of opportunity to learn the required style guide for your own discipline. (If you are wondering, both theology and history use the Chicago Manual of Style with the Notes & Bibliography sub-variant, so that is the only style that I, Dr. Stephan, know well, and that is what you will want to learn if you are a theology or history major). 
 
