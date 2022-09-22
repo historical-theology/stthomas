@@ -20,6 +20,7 @@ You will prepare a 3-5 page formal and argumentative essay that draws at least o
 ### Sample Question and Structure
 
 The essay will have the classic structure of any high school through Master's-level argumentative one:
+
 1. Introduction with thesis and preview of main points
 2. Body paragraphs that argue the main points
 3. Conclusion that reviews the thesis, ties together the argument, and points to something greater (*So what?*)
@@ -62,7 +63,7 @@ Each essay will meet the following parameters:
 
 * 3-5 pages double-spaced (either side of 1,000 words, i.e. ca. 750-1,250) with [ET-Book](https://edwardtufte.github.io/et-book/), Garamond, or Times New Roman font in size 12
 
-* Top-right corner, single-spaced:
+* Top-right corner, single-spaced list of name > class code > date > assignment name:
 
 
 		Last Name, First Name
@@ -70,16 +71,14 @@ Each essay will meet the following parameters:
 		MONTH DAY, YEAR
 		Cumulative Essay
 
-For example:
+
 
 		Smith, John/Jane
 		THEOC 1301-A
 		October 1, 2022
 		Cumulative Essay
 		
-* Provocative title with one space above and below (no wasted space)
-
-For example:
+* Provocative title with one space above and below (no wasted space), such as:
 
 		Mark's Jesus was Killed by the Gift of Free Will
 
@@ -113,7 +112,9 @@ Remember especially the class's four textbooks: *The Catholic Study Bible*, the 
 ### Real Writing is Revision
 
 
-Your first submission for this essay assignment will be your best effort. You will, however, be expected to do a revision in which you incorporate either my (Dr. Stephan's) feedback or that of my teaching assistant. All deadlines are unique to each class section, so be sure to track your own section's calendar.
+Your first submission for this essay assignment will be your best effort. You will, however, be expected to do a revision in which you incorporate either my (Dr. Stephan's) feedback or that of my teaching assistant. All deadlines are unique to each class section, so be sure to track your own section's calendar. 
+
+Your grade will come chiefly from your final submission. If you have worked especially hard through the process, that will boost your grade, and if you have hardly worked, that will lower your grade.
 
 
 ***
@@ -156,7 +157,7 @@ Your first submission for this essay assignment will be your best effort. You wi
 
 ### Grading
 
-You will be graded for thesis and argument, structure, evidence, and overall cohesion in accordance with a broader rubric that you will be able to view on Blackboard.
+You will be graded for (1) thesis and scope, (2) structure, (3) evidence, and (4) overall cohesion and thoughtfulness in accordance with a broader rubric that you will be able to view on Blackboard.
 
 ***
 
