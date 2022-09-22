@@ -25,7 +25,7 @@ The essay will have the classic structure of any high school through Master's-le
 2. Body paragraphs that argue the main points
 3. Conclusion that reviews the thesis, ties together the argument, and points to something greater (*So what?*)
 
-Yet, it will be different from what you might be accustomed to doing in that *you* are in charge of 
+Yet, it will be different from what you might be accustomed to doing in that *you* are in charge of selecting the question to answer, and developing a thesis and argument to answer that question, for yourself.
 
 For example, you might ask:
 
