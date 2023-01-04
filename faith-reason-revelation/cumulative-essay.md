@@ -34,9 +34,9 @@ For example, you might ask:
 	* Your clear **thesis statement** would be something to this effect: 
 	
 		
-	*The Gospel of Mark posits the solution to the moral aspect of the Problem of Evil that all moral evils are a consequence of humans freely choosing to reject God.*
+	*The Gospel of Mark posits the solution to the moral aspect of the Problem of Evil that all moral evils are consequences humans freely choosing to reject God.*
 			
-	* You would thus continue the introduction by previewing your main points, which might look like this:
+	* You thus would continue the introduction by previewing your main points, which might look like this:
 	
 	
 	*The Gospel specifically points to this solution at three places: when Jesus is tempted in the wilderness (Mark Ch:VV), when the crowds repeatedly harass Jesus (e.g. Ch:VV and Ch:VV), and when Jesus is sentenced to death (Ch:VV).*
