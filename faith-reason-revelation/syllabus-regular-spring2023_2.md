@@ -96,10 +96,10 @@ I. SEMESTER LONG: (25%) TRUTH TROOP TEAM TASKS
 
 II. UNIT 1: (25%) ONE-ON-ONE MEETING
 
-* 1 one-on-one meetings (partly oral exam) with the instructor (me, Dr. Stephan)
+* 1 one-on-one meeting (partly oral exam) with the instructor (me, Dr. Stephan)
 * Graded as A (strong), B (good), C/D (poor), and F (did not attend or obviously failed)
 
-III. UNIT 2: (20% for assignment + 5% for peer evaluations) PARTNER DEBATE
+III. UNIT 2: (25% = 20% for assignment + 5% for peer evaluations) PARTNER DEBATE
 
 * Partner 'staged' argument for and against one aspect of traditional Christian belief
 * Graded in traditional point scale
@@ -513,11 +513,11 @@ You must have all the required textbooks, ideally as soon as the class begins. T
 
 ### Meetings
 
-I encourage you to meet with me outside of the classroom, especially for guidance on the readings and assignments. Generally, appointments will be handled via Jitsi (meet.jit.si/DrStephan).
+I encourage you to meet with me outside of the classroom, especially for guidance on the readings and assignments. Generally, appointments will be handled during my office hours (as listed at the beginning of this document).
 
 ### Communication
 
-You must use university email or Teams for electronic correspondence with me and with the TA. Any lost or missed communication as a result of using third party email, or failing to maintain one’s UST email account under quota will be considered the student’s fault.
+You must use university email or Teams for electronic correspondence with me. Any lost or missed communication as a result of using third party email, or failing to maintain one’s UST email account under quota will be considered the student’s fault.
 
 ## Other Class Policies
 
