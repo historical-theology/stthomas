@@ -6,7 +6,7 @@
 Instructor: Corey Stephan, Ph.D.
 
 * Email: corey.stephan@stthom.edu
-* Office Hours: Mondays from 1:00-3:00 PM in Malloy Hall #232
+* Office Hours: Mondays from 1:00-2:30 PM in Malloy Hall #232 *and by appointment (email in advance)*
 
 Spring 2023
 
