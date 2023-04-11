@@ -8,7 +8,7 @@ Instructor: Corey Stephan, Ph.D.
 * Email: corey.stephan@stthom.edu
 * Office Hours: Mondays from 8:00-9:30 AM & Tuesdays from 1:00-2:30 PM in [meet.jit.si/DrStephan](meet.jit.si/DrStephan)
 
-Fall 2022: ONLINE AND ASYNCHRONOUS
+Fall 2022: ONLINE AND ASYNCHRONOUS [WIP]
 
 Notes:
 1. Some submission deadlines are to be determined.
