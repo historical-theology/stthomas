@@ -129,6 +129,7 @@ You are expected to have completed each week's lectures and readings *prior to* 
 *Complete the [Faith, Reason, & Revelation Class Survey & Contract](https://docs.google.com/forms/d/e/1FAIpQLSe5Qk7fTgEICypa2nsjPQK6MpM6V_XDzHI2DXgp_Crp3UMZtg/viewform?usp=sf_link)*
 
 5/23
+
 *What are we doing here?*
 
 Lectures
@@ -154,6 +155,7 @@ Lectures
 * [Oxford Reference Website: Theology & History Usage Guide](https://odysee.com/@CoreyStephanPh.D.:c/oxford-reference:e)
 
 5/25
+
 *Truth Troop Teams assigned.*
 
 *Sign up for one-on-one meetings next week.*
