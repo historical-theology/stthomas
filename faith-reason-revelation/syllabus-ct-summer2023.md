@@ -271,11 +271,11 @@ Reading
 
 Lecture
 
-* [Grace, Central A/C, and the Seven Gifts of the Holy Spirit](https://odysee.com/@CoreyStephanPh.D.:c/grace-ac-giftsofholyspirit:c?lid=ba276647c819d8fdaf2af475bd42bb82455bba93
+* [Grace, Central A/C, and the Seven Gifts of the Holy Spirit](https://odysee.com/@CoreyStephanPh.D.:c/grace-ac-giftsofholyspirit:c?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
 Reading
 
-* [CCC #1804-1831](https://www.usccb.org/sites/default/files/flipbooks/catechism/444/
+* [CCC #1804-1831](https://www.usccb.org/sites/default/files/flipbooks/catechism/444/)to
 
 6/15
 #### 6: The Problem of Evil
@@ -289,7 +289,7 @@ Lecture
 * Sr. Albert Marie on Mother Teresa
 
 Readings
-
+to
 * Teresa, p.1-41
 
 *What is the Problem of Evil?*
@@ -397,7 +397,7 @@ Readings
 
 *In-class WRITING PEER REVIEW* (Truth Troop Team Task)
 
-*In-class WRITING WRAP-UP*to
+*In-class WRITING WRAP-UP*
 
 ##### ESSAYS DUE BY 11:59 PM on Wednesday, June 28
 
