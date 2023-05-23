@@ -267,6 +267,7 @@ Lecture
 Reading
 
 * [CCC #1849-1863](https://www.usccb.org/sites/default/files/flipbooks/catechism/454/)
+
 *Grace & Virtue*
 
 Lecture
@@ -275,7 +276,7 @@ Lecture
 
 Reading
 
-* [CCC #1804-1831](https://www.usccb.org/sites/default/files/flipbooks/catechism/444/)to
+* [CCC #1804-1831](https://www.usccb.org/sites/default/files/flipbooks/catechism/444/)
 
 6/15
 #### 6: The Problem of Evil
