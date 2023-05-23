@@ -7,6 +7,7 @@ Instructor: Corey Stephan, Ph.D.
 
 * Email: corey.stephan@stthom.edu
 * Office Hours (tenative): Tuesdays from 12:30-2:30 PM in Malloy Hall #232 *and by appointment (email in advance)*
+
 *Office hours are subject to change, depending on my work and family schedule.*
 
 Summer Session I -- 2023
@@ -34,10 +35,10 @@ In this course, you will be introduced to what Catholic theology is, what its di
 
 By the end of the semester:
 
-1. You will explain the reasonableness of the Christian worldview in terms of human rationality and freedom. 
+1. You will be able to explain the reasonableness of the Christian worldview in terms of human rationality and freedom. 
 2. You will be able to define central Christian principles of faith, nature, grace, creation, and sin.
-3. You will explain the historical veracity of the Gospel accounts through a thorough analysis of issues of dating, genre, authorship, and external and internal witnesses.
-4. You will articulate the notion of Christian revelation, as well as modern objections.
+3. You will be able to explain the historical veracity of the Gospel accounts through a thorough analysis of issues of dating, genre, authorship, and external and internal witnesses.
+4. You will know how to articulate the notion of Christian revelation, as well as modern objections.
 
 I, Dr. Stephan, will consider anything short of this to be a failure—most likely mine, but possibly yours.
 This must be a team effort.
@@ -192,12 +193,28 @@ Reading
 
 * [CCC #153-161](https://www.usccb.org/sites/default/files/flipbooks/catechism/42/)
 
-5/30
-##### One-on-One Meetings / Oral Exams  w/Instructor
-*Instead of regular class, we will have one-on-one meetings / oral exams on this day.*
+5/30 -- NO CLASS (Instructor at conference)
+
+*Above all, use the extra time to make sure that you have read, watched, and digested all class materials up to this point -- that you understand them well (thoroughly).*
+
+*Additionally, this is where we may slot the module on Miracles that some of you students requested, for which I have a live class recording to share. The materials from the module on Miracles will be part of the required materials for the oral exam:*
+*What are miracles?*
+
+Lecture
+
+* [What are miracles? (Live Class Recording)](https://odysee.com/@CoreyStephanPh.D.:c/miracles:44?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
+
+Reading
+
+* Nichols article, p. 703-714
 
 6/1
-*In-class: Write Sketch Tragedies (Genesis 2-3)*
+##### One-on-One Meetings / Oral Exams  w/Instructor
+*Instead of regular class, we will have one-on-one meetings / oral exams on this day.*
+*Everything from the class before this point up to and including Miracles is 'fair game' for the oral exam.*
+
+6/6
+*In-class: Prepare Sketch Tragedies (Genesis 2-3), to be presented next period (homework)*
 
 ### Unit 2: Apparent Clashes of Faith and Reason
 
@@ -214,8 +231,9 @@ Reading
 
 * Catholic Study Bible: Genesis Reading Guide, Genesis Introduction, and Genesis Chapters 1-3
 
-Lecture
 *Creation(ism) & Evolution(ism)*
+
+Lecture
 
 * [Creation(ism) and Evolution(ism): Five Minute Breakdown](https://odysee.com/@CoreyStephanPh.D.:c/creationism-evolutionism:4)
 
@@ -223,14 +241,11 @@ Reading
 
 * (Blackboard 4) St. John Paul II's Letter to Scientists
 
-
-*In-class: Prepare Sketch Tragedies (Genesis 2-3), to be presented next period (homework)*
-
-6/6
-
-*In-class: Finish Sketch Tragedies (Genesis 2-3) & Present Them*
-
 6/8
+
+*In-class: Finish & Present Sketch Tragedies (Genesis 2-3)*
+
+6/13
 #### 5: Original Sin
 
 *Original Sin*
@@ -252,7 +267,6 @@ Lecture
 Reading
 
 * [CCC #1849-1863](https://www.usccb.org/sites/default/files/flipbooks/catechism/454/)
-
 *Grace & Virtue*
 
 Lecture
@@ -261,20 +275,12 @@ Lecture
 
 Reading
 
-* [CCC #1804-1831](https://www.usccb.org/sites/default/files/flipbooks/catechism/444/)
+* [CCC #1804-1831](https://www.usccb.org/sites/default/files/flipbooks/catechism/444/
 
-4/21
-
-Lecture
-
-* Sr. Albert Marie on Grace (Blackboard 7)
-
-Reading
-
-* Teresa, p.307-319
-
-6/13
+6/15
 #### 6: The Problem of Evil
+
+*In-class: We will begin the Partner / Group Debate project.*
 
 *Mother Teresa's Worldview*
 
@@ -308,14 +314,11 @@ Reading
 
 * C.S. Lewis, The Problem of Pain, ch. 2: Divine Omnipotence (Blackboard 6)
 
-*In-class: We will begin the Partner / Group Debate project.*
-
-*Classical Solutions to the Problem of Evil*
+*Classical Solution(s) to the Problem of Evil*
 
 Readings
 
 * Plato, Timaeus 27c-31b (scanned from Larrimore, Blackboard 6)
-* St. Irenaeus of Lyons, Against Heresies IV.1-2 (scanned from Larrimore, Blackboard 6)
 
 *Beginning the Partner Debate project*
 
@@ -323,12 +326,11 @@ Lecture
 
 * [Faith, Reason, & Revelation Class Partner Debates](https://odysee.com/@CoreyStephanPh.D.:c/partner-debate-introduction-wip-2022-09-11_13.37.40:1?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
-6/15
+6/20
 
 *PARTNER DEBATES*
 
-6/20
-*START FORMULATING ESSAY*
+*Beginning of essay assignment*
 
 ### Unit 3: Revelation
 
@@ -363,11 +365,16 @@ Lecture
 
 * [What are the Gospels?](https://odysee.com/@CoreyStephanPh.D.:c/gospel-genre:3?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
-6/22 -- NO CLASS
-*Read all Mark materials carefully and work on essays*
-*Peer writing workshopping recommended*
+6/22
 
-6/27 -- CLASS IN-SESSION AGAIN
+*Class cancellation is possible due to my (Dr. Stephan's) family needs.*
+
+*If class is in session, then the day will be about Mark's Gospel and working on the essays, as shown here.*
+
+*If class is not in session, then I (Dr. Stephan) still highly recommend that you (students) get together to do essay writing workshopping, and the materials below still will be considered required reading for the day.*
+
+*Another possibility for the day is that we might have a virtual class meeting. Stay tuned for more information.*
+
 #### 10: Gospel of Mark
 
 *Mark, pt. 1*
@@ -386,12 +393,13 @@ Readings
 
 *In-class WRITING WORKSHOP*
 
-6/29
+6/27
+
 *In-class WRITING PEER REVIEW* (Truth Troop Team Task)
 
-*In-class WRITING WRAP-UP*
+*In-class WRITING WRAP-UP*to
 
-##### ESSAYS DUE BY END OF CLASS on Thursday, June 29
+##### ESSAYS DUE BY 11:59 PM on Wednesday, June 28
 
 ## University Policies
 
@@ -434,3 +442,9 @@ All writing, and, indeed, all creative production (engineering, painting, coding
 ### Statement on Software Freedom
 I am a longtime advocate of Free Software as defined by the [Free Software Foundation](https://www.gnu.org/philosophy/free-sw.en.html). I encourage you to teach yourself about software freedom. For my part, I promise that I will never require you to use non-free software, except tools that are currently required as part of our experience at the University of St. Thomas (e.g. Microsoft Teams). To the contrary, whenever possible, I will encourage or require you even to submit your work in formats with open standards.
 
+### Class Prayer
+#### A Prayer of St. Thomas Aquinas
+
+*The official prayer of Dr. Stephan's alma mater, the University of St. Thomas in Minnesota*
+
+Grant, O Merciful God, that I may ardently desire, prudently examine, truthfully acknowledge, and perfectly accomplish what is pleasing to Thee for the praise and glory of Thy Name. Amen.
