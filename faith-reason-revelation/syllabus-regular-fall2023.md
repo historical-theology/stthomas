@@ -42,7 +42,7 @@ By the end of the semester:
 I, Dr. Stephan, will consider anything short of this to be a failure—most likely mine, but possibly yours.
 This must be a team effort.
 
-To that end, we have a [Faith, Reason, & Revelation Class Survey & Contract](https://docs.google.com/forms/d/e/1FAIpQLSeSd8uw2Ubm96MuVxqgvWjzlZColxjFI-EDg2QBs9zEGWl_FA/viewform?usp=sf_link) that all of us, myself included, are required to sign by the end of the first week.
+To that end, we have a [Faith, Reason, & Revelation Class Survey & Contract](https://docs.google.com/forms/d/e/1FAIpQLSdEn1VRGjNDTy8kS38YekmiHt2o_BizJT4fe1rTkm904yGsAA/viewform?usp=sf_link) that all of us, myself included, are required to sign by the end of the first week.
 
 Above all, note that you are expected:
 1. To do all assigned readings and watch or listen to all assigned lectures every week,
