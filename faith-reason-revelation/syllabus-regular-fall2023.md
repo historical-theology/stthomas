@@ -10,6 +10,8 @@ Corey Stephan, Ph.D.
 
 Fall 2023
 
+***
+
 Notes:
 
 1. As of the start of the semester, some submission deadlines and other aspects of this syllabus remain to be determined.
@@ -76,6 +78,8 @@ All of these books are required in order to participate in the class:
 
 I will distribute other assigned readings either as .pdf scans on Blackboard or via hyperlinks to online materials in the public domain (in the class webpage that is linked above).
 
+***
+
 ## Themes 
 
 The course is divided into three thematic units:
@@ -126,8 +130,8 @@ VI. END OF TERM: (2%) LEARNING OBJECTIVE ASSESSMENT QUIZ
 * Online assessment quiz required for University accreditation
 * The quiz itself will not be graded; instead, you will receive full credit for completion
 
-
 ***
+
 	
 ## Schedule
 
@@ -140,6 +144,7 @@ You are expected to have completed each week's lectures and readings *prior to* 
 *Complete the [Faith, Reason, & Revelation Class Survey & Contract](https://docs.google.com/forms/d/e/1FAIpQLSeSd8uw2Ubm96MuVxqgvWjzlZColxjFI-EDg2QBs9zEGWl_FA/viewform?usp=sf_link)*
 
 8/21
+
 *What are we doing here?*
 
 Lectures
@@ -148,6 +153,7 @@ Lectures
 * [Faith, Reason, & Revelation: Syllabus & Class Bones](https://odysee.com/@CoreyStephanPh.D.:c/faith-reason-revelation-syllabus:0?r=7zj8tpNdRxUR7QE5Tb5sWyZr1fawkv1R&lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
 8/23
+
 *What is theology? How should I start doing it?*
 
 Lectures
@@ -156,6 +162,7 @@ Lectures
 * [How to Read and Think Like a Theologian](https://odysee.com/@CoreyStephanPh.D.:c/read-think-theologian:c)
 
 8/25
+
 *How should I use our class resources?*
 
 Lectures
@@ -172,6 +179,7 @@ Lectures
 *Sign up for one-on-one meetings.*
 
 8/28
+
 *Faith & Reason*
 
 Lecture
@@ -184,6 +192,7 @@ Readings
 * [Spe Salvi 1-31](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html)
 
 8/30
+
 *Faith in Human Experience, Giving Joy*
 
 Lecture
@@ -197,6 +206,7 @@ Reading
 #### 3: What is reason?
 
 9/1
+
 *What can we say about God?*
 
 Lecture
@@ -210,6 +220,7 @@ Reading
 9/4 - *Labor Day - CAMPUS CLOSED*
 
 9/6, 9/7, & 9/8
+
 ##### One-on-One Meetings w/Instructor
 NO CLASS on 9/6 or 9/8 days, since one-on-one meetings will take place during those hours
 
@@ -218,6 +229,7 @@ NO CLASS on 9/6 or 9/8 days, since one-on-one meetings will take place during th
 #### 4: Creation(ism) and Evolution(ism)
 
 9/11
+
 *Genesis & Creation*
 
 Lectures
@@ -253,6 +265,7 @@ Reading
 #### 5: Original Sin
 
 9/25
+
 *Original Sin*
 
 Lecture
@@ -264,6 +277,7 @@ Reading
 * [CCC #396-401](https://www.usccb.org/sites/default/files/flipbooks/catechism/102/)
 
 9/27
+
 *Am I a sinner?*
 
 Lecture
@@ -277,6 +291,7 @@ Reading
 #### 6: The Problem of Evil
 
 9/29
+
 *Mother Teresa's Worldview*
 
 Lecture
@@ -288,6 +303,7 @@ Readings
 * Teresa, p.1-41
 
 10/2
+
 *What is the Problem of Evil?*
 
 Lecture
@@ -301,6 +317,7 @@ Readings
 * [CCC #309-314](https://www.usccb.org/sites/default/files/flipbooks/catechism/82/)
 
 10/4
+
 *C.S. Lewis on the Problem*
 
 Lectures
@@ -312,6 +329,7 @@ Reading
 * C.S. Lewis, The Problem of Pain, ch. 2: Divine Omnipotence (Blackboard 6)
 
 10/6
+
 *Classical Solutions to the Problem*
 
 Readings
@@ -322,10 +340,12 @@ Readings
 10/9 - *Columbus Day, Indigenous Peoples' Day, & UST Midterm Break - CAMPUS CLOSED*
 
 10/11
+
 *Augustine on the Problem of Evil*
 MATERIALS TBD
 
 10/13
+
 *Beginning the Partner Debate project*
 
 Lecture
@@ -341,6 +361,7 @@ Lecture
 #### 7: Grace & Virtue
 
 10/23
+
 *Grace & Virtue*
 
 Lecture
@@ -377,6 +398,7 @@ and "The Bible in Catholic Life")
 #### 9: What are the Gospels?
 
 10/30
+
 *Essay Assignment*
 
 Lectures (Blackboard -> Cumulative Essays)
@@ -386,6 +408,7 @@ Lectures (Blackboard -> Cumulative Essays)
 * [How can a new undergraduate student write a successful theological essay? Deep Essay Writing Guide](https://odysee.com/@CoreyStephanPh.D.:c/theological-essay-guide:1?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
 11/1
+
 *What are the Gospels?*
 
 Reading
@@ -397,6 +420,7 @@ Lecture
 * [What are the Gospels?](https://odysee.com/@CoreyStephanPh.D.:c/gospel-genre:3?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
 11/3
+
 *Who did Jesus claim to be?*
 
 Lecture
@@ -408,6 +432,7 @@ Lecture
 *A week-long intensive dive into Mark's Gospel*
 
 11/6
+
 *Mark, pt. 1*
 
 Readings
@@ -415,6 +440,7 @@ Readings
 * Catholic Study Bible: Mark Reading Guide, Mark Introduction
 
 11/8
+
 *Mark, pt. 2*
 
 Readings
@@ -422,6 +448,7 @@ Readings
 * Mark 1-8
 
 11/10
+
 *Mark, pt. 3*
 
 Readings
@@ -458,6 +485,7 @@ Readings
 * Pitre, ch. 9
 
 11/27
+
 *Who are the Fathers of the Church?*
 
 Lecture
@@ -471,6 +499,7 @@ Lecture
 #### 12: Miracles
 
 11/29
+
 *What are miracles?*
 
 Lecture
@@ -500,6 +529,7 @@ Lecture
 #### 14: Class Wrap-up
 
 12/4
+
 *Class wrap-up round table*
 
 #### LEARNING OBJECTIVE ASSESSMENT QUIZZES DUE BY 11:59 PM on Monday, December 4
@@ -525,6 +555,8 @@ I encourage you to meet with me outside of the classroom, especially for guidanc
 ### Communication
 
 You must use university email or Teams for electronic correspondence with me. Any lost or missed communication as a result of using third party email, or failing to maintain one’s UST email account under quota will be considered the student’s fault.
+
+***
 
 ## Other Class Policies
 
