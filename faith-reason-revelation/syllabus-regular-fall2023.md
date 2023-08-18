@@ -58,6 +58,8 @@ The [class webpage](https://www.coreystephan.com/teaching/faith-reason-revelatio
 * hyperlinks to class readings, and
 * other (semi-)permanent materials related to the class.
 
+***
+
 ## Required Books
 
 All of these books are required in order to participate in the class:
@@ -501,6 +503,8 @@ Lecture
 *Class wrap-up round table*
 
 #### LEARNING OBJECTIVE ASSESSMENT QUIZZES DUE BY 11:59 PM on Monday, December 4
+
+***
 
 ## University Policies
 
