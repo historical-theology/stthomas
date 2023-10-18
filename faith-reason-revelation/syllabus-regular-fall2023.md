@@ -128,7 +128,6 @@ V. SEMESTER LONG: (10%) ATTENDANCE
 VI. END OF TERM: (2%) LEARNING OBJECTIVE ASSESSMENT QUIZ
 
 * Online assessment quiz required for University accreditation
-* The quiz itself will not be graded; instead, you will receive full credit for completion
 
 ***
 
