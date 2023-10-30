@@ -57,7 +57,7 @@ For example, you might ask:
 
 Each essay will meet the following parameters:
 
-* 3-5 pages double-spaced (either side of 1,000 words, i.e. ca. 750-1,250) with [ET-Book](https://edwardtufte.github.io/et-book/), Garamond, or Times New Roman font in size 12
+* 3-5 pages double-spaced (the best essays often end up being 5 full pages, or about 1,200 words) with [ET-Book](https://edwardtufte.github.io/et-book/), Garamond, or Times New Roman font in size 12
 
 * Top-right corner, single-spaced list of name > class code > date > assignment name:
 
@@ -87,11 +87,11 @@ Each essay will meet the following parameters:
 
 The only strictly *required* source is the Gospel of Mark as presented in the Catholic Study Bible, that is, the text of Mark's Gospel, as well as the Reading Guide, Introduction, and Footnotes, all of which are (for our purposes) to be considered one (unified) whole source.
 
-Secondly, I *recommend* that you make use of Brant Pitre's The Case for Jesus, which we are reading in conjunction with the Gospel of Mark. Pitre unfolds an academic argument with multiple sub-arguments and many considerations of counter-arguments, thereby providing you with both a model for making an academic argument and much material that you might choose to cite.
+Secondly, I strongly *recommend* that you make use of Brant Pitre's The Case for Jesus, which we are reading in conjunction with the Gospel of Mark. Pitre unfolds an academic argument with multiple sub-arguments and many considerations of counter-arguments, thereby providing you with both a model for making an academic argument and much material that you might choose to cite.
 
-Thirdly, you may make use of any class materials, including assigned readings, video lectures, partner debate contents, class session notes, and more. This is both a recommended constraint on scope to help keep you dutifully focused and a means by which I as the grader may assess how well you really have digested what we have done in the class.
+Thirdly, I recommend that you make use of any class materials, including assigned readings, video lectures, partner debate contents, class session notes, and more. 
 
-Fourthly, you may use outside materials, including Oxford Reference Online, peer-reviewed academic resources (presumably from the UST Library), and highly vetted non-academic resources (e.g. New York Times or Washington Post articles).
+Fourthly, you may, if it should be particularly helpful for your chosen topic, use outside materials, including Oxford Reference Online, peer-reviewed academic resources (presumably from the UST Library), and highly vetted non-academic resources (e.g. New York Times or Washington Post articles). You may not, however, use anything that neither has been subjected to academic peer review nor to meaningful vetting or editing of some other kind. (As an aside, this includes coreystephan.com, the contents of which are, in my estimation, quite important but have not been vetted by any party equipped to so vet. May it never be said that Dr. Stephan is inconsistent with his expectations!)
 
 ### Citations
 
@@ -115,7 +115,7 @@ Overall, what matters with regard to citations is mostly that you cite everythin
 
 Your first submission for this essay assignment will be your best effort. 
 
-You will, however, be allowed to do a revision in which you incorporate either my (Dr. Stephan's) feedback.
+You will, however, be allowed to do a revision in which you incorporate my (Dr. Stephan's) feedback.
 
 
 ***
