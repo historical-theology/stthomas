@@ -2,6 +2,8 @@
 
 These are syllabi and other materials for the classes that I teach at the University of St. Thomas in Houston, Texas.
 
+Generally, I do not use slides for classroom teaching, reserving them instead for online video lecturing. Yet, /sent-slides/ subdirectories within each class's own directory contain plain text files that are specifically meant to be opened with the Suckless project's [sent](https://tools.suckless.org/sent/) (or another plain text, simple slide presentation utility).
+
 Everything in this repository is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
