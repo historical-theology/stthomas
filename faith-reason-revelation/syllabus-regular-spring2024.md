@@ -93,6 +93,8 @@ The class has seven grades. The total class grade is weighted out of 100 points.
 	* Tracking any excused absence(s) that you might have, and ensuring that they end up entered into Blackboard (by me), is your responsibility as the student.
 * No other absences are excused (excluded from the tabulation), unless you should provide a documented medical, legal, or other circumstance that precludes you from attending class (e.g. a letter from a medical or legal office) to me, the instructor.
 
+*Asynchronous: For you, the attendance grade category will be determined by your participation in your Truth Troop Team's several required Study Group Recordings. I will communicate with you separately about this.*
+
 
 3. Semester Long: (20%) TRUTH TROOP TEAM TASKS
 
