@@ -19,7 +19,7 @@ Notes:
 
 ***
 
-Faith and reason are like two wings on which the human spirit rises to the contemplation of truth;  and God has placed in the human heart a desire to know the truth—in a word, to know himself—so that, by knowing and loving God, men and women may also come to the fullness of truth about themselves.
+Faith and reason are like two wings on which the human spirit rises to the contemplation of truth; and God has placed in the human heart a desire to know the truth—in a word, to know himself—so that, by knowing and loving God, men and women may also come to the fullness of truth about themselves.
 
 - St. John Paul II, *Fides et Ratio*, §1
 
@@ -28,25 +28,25 @@ An introductory course in fundamental Catholic theology, presenting the basic op
 ***
 
 ## Journey
-In this course, you will be introduced to what Catholic theology is, what its distinctive features and principles are, and why Catholic belief is reasonable. In so doing, you will deepen your understanding of yourself as a rational, free being, capable of affirming what is true and of freely embracing the purpose of you existence.
+In this course, you will be introduced to what Catholic theology is, what its distinctive features and principles are, and why Catholic belief is reasonable. In so doing, you will deepen your understanding of yourself as a rational, free being, capable of affirming what is true and of freely embracing the purpose of your existence.
 
 ## Destination
 
 By the end of the semester:
 
 1. You will explain the reasonableness of the Christian worldview in terms of human rationality and freedom. 
-2. You will be able to define central Christian principles of faith, nature, grace, creation, and sin.
-3. You will explain the historical veracity of the Gospel accounts through a thorough analysis of issues of dating, genre, authorship, and external and internal witnesses.
-4. You will articulate the notion of Christian revelation, as well as modern objections.
+2. You will be able to define the central Christian principles of faith, nature, grace, creation, and sin.
+3. You will be able to explain the historical veracity of the Gospel accounts through a thorough analysis of issues of dating, genre, authorship, and external and internal witnesses.
+4. You will be able to articulate the notion of Christian revelation, as well as modern objections.
 
 I, Dr. Stephan, will consider anything short of this to be a failure—most likely mine, but possibly yours.
 This must be a team effort.
 
-To that end, we have a Faith, Reason, & Revelation Class Survey and Contract in the "Start" page in Blackboard that all of us, myself included, are required to complete and sign by the end of the first week.
+To that end, we have a "Faith, Reason, & Revelation Class Survey and Contract" in the "Start" page in Blackboard that everyone, myself included, is required to complete and sign by the end of the first week.
 
 Above all, note that you are expected:
 1. To do all assigned readings and watch or listen to all assigned lectures every week.
-2. To be prepared for engaging full-group and small group discussions every class meeting.
+2. To be prepared for engaging full-group and small group discussions at every required meeting.
 
 ***
 
@@ -64,7 +64,7 @@ All of these books are required in order to participate in the class:
 4. Brant Pitre, *The Case for Jesus* [Pitre]
 	* ISBN 978-0-385-36593-2
 
-I will distribute other assigned readings either as .pdf scans on Blackboard or via hyperlinks to online materials in the public domain.
+I distribute other assigned readings in Blackboard either as .pdf scans or via hyperlinks to online materials in the public domain.
 
 ***
 
@@ -90,7 +90,7 @@ The class has seven grades. The total class grade is weighted out of 100 points.
 * This category will be tabulated with a simple percentage *at the end of the term.*
 	* That means that if you look in your gradebook in Blackboard and see that you have, say, 3 absences, you actually still have a score of 100% for attendance. Blackboard does not allow the instructor to automatically exempt up to a certain number of absences.
 * University-excused absences are excluded from the attendance grade tabulation, provided that you remind me of your official excuse. 
-	* Tracking any excused absence(s) that you might have, and ensuring that they end up entered into Blackboard (by me), is strictly your responsibility as the student.
+	* Tracking any excused absence(s) that you might have, and ensuring that they end up entered into Blackboard (by me), is your responsibility as the student.
 * No other absences are excused (excluded from the tabulation), unless you should provide a documented medical, legal, or other circumstance that precludes you from attending class (e.g. a letter from a medical or legal office) to me, the instructor.
 
 
@@ -172,9 +172,10 @@ Lectures
 
 Lectures
 
+* [How do I use the Catholic Study Bible?](https://odysee.com/@CoreyStephanPh.D.:c/catholic-study-bible:2)
+* [How do I use the Catechism of the Catholic Church? 5 Minute Guide](https://odysee.com/@CoreyStephanPh.D.:c/catechism:4)
+
 * Asynchronous: [The Best Free Computer Sources for Catholic Theology](https://odysee.com/@CoreyStephanPh.D.:c/computer-resources-catholic-theology:7)
-* Asynchronous: [How do I use the Catholic Study Bible?](https://odysee.com/@CoreyStephanPh.D.:c/catholic-study-bible:2)
-* Asynchronous: [How do I use the Catechism of the Catholic Church? 5 Minute Guide](https://odysee.com/@CoreyStephanPh.D.:c/catechism:4)
 * Asynchronous: [Oxford Reference Website: Theology & History Usage Guide](https://odysee.com/@CoreyStephanPh.D.:c/oxford-reference:e)
 
 *Truth Troop Teams assigned.*
@@ -527,7 +528,7 @@ You must have all the required textbooks, ideally as soon as the class begins. T
 
 ### Meetings
 
-I encourage you to meet with me outside of the classroom, especially for guidance on the readings and assignments. Generally, appointments will be handled during my office hours (as listed at the beginning of this document).
+I encourage you to meet with me (Dr. Stephan) outside of the classroom, especially for guidance on the readings and assignments. Generally, appointments will be handled during my office hours (as listed at the beginning of this document).
 
 ### Communication
 
@@ -543,7 +544,7 @@ I know that life happens, and I know that the best work sometimes has to be subm
 
 At the same time, this class is a team effort, so we all must strive to have our work to share with each other on time. Even one 'weak link' can tear down everyone's experience; you (as an individual student) really do matter to the class as a whole.
 
-With all that in mind, I have structured class assignments in such a way that there should not be any legitimate reason for anyone to make a late submission. Yet, for individual project submissions for which late submissions are actually viable (*as judged by me, Dr. Stephan*), I will not penalize students for late submissions.
+With all that in mind, I have structured class assignments in such a way that there should not be any legitimate reason for anyone to make a late submission. Most late submissions will incur a late penalty, and, occasionally, I will not be able to accept a late submission at all.
 
 ### Statement on Software Freedom
 I am a longtime advocate of Free Software as defined by the [Free Software Foundation](https://www.gnu.org/philosophy/free-sw.en.html). I encourage you to teach yourself about software freedom. For my part, I promise that I will never require you to use non-free software, except tools that are currently required as part of our experience at the University of St. Thomas (e.g. Microsoft Teams). To the contrary, whenever possible, I will encourage or require you even to submit your work in formats with open standards.
