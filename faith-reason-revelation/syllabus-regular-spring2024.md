@@ -1,14 +1,18 @@
 ![University of St. Thomas - Core Curriculum](https://raw.githubusercontent.com/historical-theology/stthomas/main/ustlogo.jpg)
-## Core Curriculum
 
 # Faith, Reason, and Revelation
 
-Corey Stephan, Ph.D.
+#### Corey Stephan, Ph.D.
 
 * Email: corey.stephan@stthom.edu
 * Office Hours: Mondays from 11:00AM - 12:00PM in Hughes House #201 *and by appointment (email in advance)*
 
-Spring 2024
+#### Spring 2024
+
+* THEOC-1301C, 8:10-9:00 MWF, Malloy Hall 014
+* THEOC-1301D, 9:10-10:00 MWF, Malloy Hall 014
+* THEOC-1301E, 10:10-11:00 MWF, Malloy Hall 014
+* THEOC-1301OA, asynchronous (arranged by the Dean for B.S.N. students with specific clinical scheduling requirements)
 
 ***
 
@@ -19,9 +23,11 @@ Notes:
 
 ***
 
-Faith and reason are like two wings on which the human spirit rises to the contemplation of truth; and God has placed in the human heart a desire to know the truth—in a word, to know himself—so that, by knowing and loving God, men and women may also come to the fullness of truth about themselves.
+> Faith and reason are like two wings on which the human spirit rises to the contemplation of truth; and God has placed in the human heart a desire to know the truth—in a word, to know himself—so that, by knowing and loving God, men and women may also come to the fullness of truth about themselves. 
+> 
+>  Pope St. John Paul II, *Fides et Ratio*, §1
 
-- St. John Paul II, *Fides et Ratio*, §1
+***
 
 An introductory course in fundamental Catholic theology, presenting the basic openness of the human person to divine revelation, the historical veracity of that revelation, and selected major theological themes in the Catholic worldview, with an eye to their coherence with one another and with the human person.
 
@@ -32,19 +38,19 @@ In this course, you will be introduced to what Catholic theology is, what its di
 
 ## Destination
 
-By the end of the semester:
+By the end of the semester, you will be able:
 
-1. You will explain the reasonableness of the Christian worldview in terms of human rationality and freedom. 
-2. You will be able to define the central Christian principles of faith, nature, grace, creation, and sin.
-3. You will be able to explain the historical veracity of the Gospel accounts through a thorough analysis of issues of dating, genre, authorship, and external and internal witnesses.
-4. You will be able to articulate the notion of Christian revelation, as well as modern objections.
+1. To explain the reasonableness of the Christian worldview in terms of human rationality and freedom. 
+2. To define the central Christian principles of faith, nature, grace, creation, and sin.
+3. To explain the historical veracity of the Gospel accounts through a thorough analysis of issues of dating, genre, authorship, and external and internal witnesses.
+4. To articulate the notion of Christian revelation, as well as modern objections.
 
-I, Dr. Stephan, will consider anything short of this to be a failure—most likely mine, but possibly yours.
-This must be a team effort.
+I, Dr. Stephan, will consider anything short of this to be a failure—most likely mine, but possibly yours. This must be a team effort.
 
 To that end, we have a "Faith, Reason, & Revelation Class Survey and Contract" in the "Start" page in Blackboard that everyone, myself included, is required to complete and sign by the end of the first week.
 
 Above all, note that you are expected:
+
 1. To do all assigned readings and watch or listen to all assigned lectures every week.
 2. To be prepared for engaging full-group and small group discussions at every required meeting.
 
@@ -80,7 +86,7 @@ The course is divided into three thematic units:
 
 ## Grades
 
-The class has seven grades. The total class grade is weighted out of 100 points.
+The total class grade is weighted out of 100 points.
 
 1. Start of Term: (2.5%) CLASS SURVEY AND CONTRACT
 
@@ -93,12 +99,14 @@ The class has seven grades. The total class grade is weighted out of 100 points.
 	* Tracking any excused absence(s) that you might have, and ensuring that they end up entered into Blackboard (by me), is your responsibility as the student.
 * No other absences are excused (excluded from the tabulation), unless you should provide a documented medical, legal, or other circumstance that precludes you from attending class (e.g. a letter from a medical or legal office) to me, the instructor.
 
-*Asynchronous: For you, the attendance grade category will be determined by your participation in your Truth Troop Team's several required Study Group Recordings. I will communicate with you separately about this.*
+*Asynchronous: For you, the attendance grade category will be determined by your participation in your Truth Troop Team's recurring Study Group Recordings. I will communicate with you separately about this by email.*
 
 
 3. Semester Long: (20%) TRUTH TROOP TEAM TASKS
 
 * Graded tasks with in-class learning groups
+
+*Asynchronous: For you, the Truth Troop Team Tasks grade category will include recurring Study Group Recordings. I will send details to you by email.*
 
 4. Unit 1: (20%) ONE-ON-ONE MEETING (Early Term Exam)
 
@@ -111,7 +119,7 @@ The class has seven grades. The total class grade is weighted out of 100 points.
 
 6. Unit 3: (20%) IN-CLASS ESSAY (Final Exam)
 
-* In-class, handwritten cumulative essay
+* In-class, handwritten or typed (details TBD) cumulative essay
 
 7. End of Term: (2.5%) LEARNING OBJECTIVE ASSESSMENT QUIZ
 
@@ -137,9 +145,9 @@ The class has seven grades. The total class grade is weighted out of 100 points.
 
 You are expected to have completed each week's lectures and readings *prior to* the marked class period.
 
-Items marked "Asynchronous" are only *required* for online (asynchronous) students. (They are, however, *recommended* for all students.)
+Items marked "Asynchronous" are only *required* for online (asynchronous) students in THEOC-1301OA. They are, however, *recommended* for all students, which is part of why I have included them in a 'master syllabus' for all four of my current Faith, Reason, and Revelation class sections.
 
-Everything not marked "Asynchronous" is required for all students across all class sections, both in-person and online.
+Everything not marked "Asynchronous" is required for all students across all class sections.
 
 ### Unit 1: What are faith and reason?
 
@@ -381,7 +389,7 @@ and "The Bible in Catholic Life")
 
 *A week-long intensive dive into the Book of Ecclesiastes/Qoheleth as it pertains to the themes of the class*
 
-*As this is a new module for this term, asynchronous lectures and other materials for it are TBD.*
+*As this is a new module for this term, video lectures and other materials for it are TBD.*
 
 4/5
 Readings
@@ -504,7 +512,7 @@ Lecture
 
 **CUMULATIVE ESSAY**
 
-*by "Blue Books" (hand-written)*
+*by "Blue Books" (hand-written) or live typing (computer keyboard) -- details TBD*
 
 #### Class Wrap-Up
 
@@ -540,18 +548,24 @@ You must use university email for electronic correspondence with me. Any lost or
 
 ## Other Class Policies
 
+### Electronic Devices
+
+Electronic devices such as laptop computers and digital tablets are only permitted in class when situationally required, such as for doing a group project or accessing a specific digital reading -- or, of course, for students with documented medical conditions (notably, visual impairments) that require the use of specific electronic accessories. Otherwise, they should not be used in class. I (Dr. Stephan) strongly prefer that such electronic devices be kept in students' bags.
+
+I might ask a student who distracts other students and/or the instructor with out-of-place electronic device usage to leave the class for the day; that student would then be marked as "Absent" against his/her attendance record (grade).
+
+Cell phone usage is never appropriate in a classroom. If you should have an urgent matter to address that requires making a telephone call or text messaging, then you ought to step out of the room to take care of it.
+
 ### Late Submissions
 
-I know that life happens, and I know that the best work sometimes has to be submitted late (the Sistine Chapel's painting went behind schedule, after all).
-
-At the same time, this class is a team effort, so we all must strive to have our work to share with each other on time. Even one 'weak link' can tear down everyone's experience; you (as an individual student) really do matter to the class as a whole.
+I (Dr. Stephan) know that life happens, and I know that the best work sometimes has to be submitted late (the Sistine Chapel's painting went behind schedule, after all). At the same time, this class is a team effort, so we all must strive to have our work to share with each other on time. Even one 'weak link' can tear down everyone's experience; you (as an individual student) really do matter to the class as a whole.
 
 With all that in mind, I have structured class assignments in such a way that there should not be any legitimate reason for anyone to make a late submission. Most late submissions will incur a late penalty, and, occasionally, I will not be able to accept a late submission at all.
 
 ### Statement on Software Freedom
-I am a longtime advocate of Free Software as defined by the [Free Software Foundation](https://www.gnu.org/philosophy/free-sw.en.html). I encourage you to teach yourself about software freedom. For my part, I promise that I will never require you to use non-free software, except tools that are currently required as part of our experience at the University of St. Thomas (e.g. Microsoft Teams). To the contrary, whenever possible, I will encourage or require you even to submit your work in formats with open standards.
+I (Dr. Stephan) am a longtime advocate of Free Software as defined by the [Free Software Foundation](https://www.gnu.org/philosophy/free-sw.en.html). I encourage you to teach yourself about software freedom. For my part, I promise that I will never require you to use non-free software, except tools that are currently required as part of our experience at the University of St. Thomas (e.g. Microsoft Teams and Blackboard). To the contrary, whenever possible, I will encourage you to prepare your work in free software and submit it in formats with open standards.
 
-### Class Prayer
+## Class Prayer
 A Prayer by St. Thomas Aquinas
 
-Grant, O Merciful God, that I may ardently desire, prudently examine, truthfully acknowledge, and perfectly accomplish what is pleasing to Thee for the praise and glory of Thy name. Amen.
+> Grant, O Merciful God, that I may ardently desire, prudently examine, truthfully acknowledge, and perfectly accomplish what is pleasing to Thee for the praise and glory of Thy name. Amen.
