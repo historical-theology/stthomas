@@ -6,7 +6,7 @@
 [coreystephan.com](https://www.coreystephan.com/)
 
 * Email: corey.stephan@stthom.edu
-* Office Hours: Mondays from 12:15 - 1:15 in Hughes House #201 *and by appointment (email in advance)*
+* Office hours by appointment (email in advance)
 
 #### Fall 2024
 
