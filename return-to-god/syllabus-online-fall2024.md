@@ -10,7 +10,7 @@
 
 Fall 2024: Online and Asynchronous
 
-Syllabus updated August 18
+Syllabus updated August 20
 
 Notes:
 
