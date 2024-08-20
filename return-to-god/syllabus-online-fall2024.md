@@ -169,7 +169,7 @@ Truth Troop Team assignments will be made by the end of the first week.
 Lectures
 
 * [What is this Return to God class?](https://odysee.com/@CoreyStephanPh.D.:c/return-to-god-introduction:6)
-* [The Return to God: Syllabus & Class Bones](https://odysee.com/@CoreyStephanPh.D.:c/return-to-god-syllabus:a)
+* [The Return to God: Syllabus & Class Bones (Fall 2024)](https://odysee.com/@CoreyStephanPh.D.:c/return-to-god-syllabus-f2024:b)
 * [What is Catholic theology? 30 Minute Guide](https://odysee.com/@CoreyStephanPh.D.:c/defining-theology:e)
 * [How to Read and Think Like a Theologian](https://odysee.com/@CoreyStephanPh.D.:c/read-think-theologian:c)
 * [How do I use the Catholic Study Bible?](https://odysee.com/@CoreyStephanPh.D.:c/catholic-study-bible:2)
