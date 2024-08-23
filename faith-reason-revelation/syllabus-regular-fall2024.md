@@ -6,13 +6,25 @@
 [coreystephan.com](https://www.coreystephan.com/)
 
 * Email: corey.stephan@stthom.edu
-* Office hours by appointment (email in advance)
+* Office location: Hughes 201
+	* Office hours by appointment (email in advance)
 
 #### Fall 2024
 
 * THEOC-1301B, 9:10-10:00 MWF, Malloy Hall 017
 * THEOC-1301C, 10:10-11:00 MWF, Malloy Hall 017
 * THEOC-1301M, 11:10-12:00 MWF, Malloy Hall 017
+
+#### Title V Core Peer Mentor (all sections: -B, -C, -M)
+Ms. Elizabeth Laureano
+* Black Lab, 4100 Montrose Boulevard
+* Office hours
+	* Monday and Wednesday, 12:00-1:00 PM and 4:30-6:00 PM
+	* Tuesday and Thursday, 1:00-3:00 PM
+
+Each of the three class sections also has its own designated Student Success Peer Mentor. Further information about Student Success Peer Mentoring will be distributed after it has been finalized.
+
+
 
 ***
 
@@ -497,37 +509,27 @@ Reading
 
 * Miracles in Lourdes (Blackboard 12)
 
-#### 13: Resurrection
+#### Cumulative Essay (Final Exam)
 
 November 18
 
-Reading
-
-* Pitre, ch. 12
-
-Lecture
-
-* Bishop Barron on the Resurrection of Jesus (Blackboard 15)
-
-#### Cumulative Essay (Final Exam)
+*What is this cumulative essay assignment? How should I approach it?*
 
 November 20
 
-*What is this cumulative essay assignment? How should I approach it?*
+*Full class cumulative review, Day 1*
 
 November 22
 
-*Full class cumulative review, Day 1*
-
-November 25
-
 *Full class cumulative review, Day 2*
 
-November 28
+November 25
 
 **CUMULATIVE ESSAY**
 
 *by "Blue Books" (hand-written) or live typing (computer keyboard)*
+
+###  November 27 - 29 THANKSGIVING BREAK
 
 #### Class Wrap-Up
 
