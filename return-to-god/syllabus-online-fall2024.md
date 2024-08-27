@@ -10,7 +10,7 @@
 
 Fall 2024: Online and Asynchronous
 
-Syllabus updated August 20
+Syllabus last updated (minor changes) on August 27
 
 Notes:
 
@@ -170,6 +170,7 @@ Lectures
 
 * [What is this Return to God class?](https://odysee.com/@CoreyStephanPh.D.:c/return-to-god-introduction:6)
 * [The Return to God: Syllabus & Class Bones (Fall 2024)](https://odysee.com/@CoreyStephanPh.D.:c/return-to-god-syllabus-f2024:b)
+* [Return to God Truth Troop Teams: Study Group Recordings & More (Fall 2024)](https://odysee.com/@CoreyStephanPh.D.:c/truth-troop-teams:b)
 * [What is Catholic theology? 30 Minute Guide](https://odysee.com/@CoreyStephanPh.D.:c/defining-theology:e)
 * [How to Read and Think Like a Theologian](https://odysee.com/@CoreyStephanPh.D.:c/read-think-theologian:c)
 * [How do I use the Catholic Study Bible?](https://odysee.com/@CoreyStephanPh.D.:c/catholic-study-bible:2)
