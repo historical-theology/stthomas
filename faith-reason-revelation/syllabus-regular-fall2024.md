@@ -24,6 +24,8 @@ Ms. Elizabeth Laureano
 
 Each of the three class sections also has its own designated Student Success Peer Mentor. Further information about Student Success Peer Mentoring will be distributed after it has been finalized.
 
+_Minor updates on September 20, 2024_
+
 
 
 ***
@@ -310,9 +312,19 @@ September 27
 
 *Original Sin*
 
+Class on this day will be an experimental Socratic seminar. To receive full attendance credit, you must come to class with the following:
+
+(1) Your copy of the Catechism reading ready for reference
+
+(2) One formal question about original sin
+
+(3) One formal comment about original sin
+
+You will submit your question and comment to Dr. Stephan in a manner that will be explained in class.
+
 Lecture
 
-* Optional: [What is original sin? CCC 385-390 & 396-421 Deep Dive](https://odysee.com/@CoreyStephanPh.D.:c/4---original-sin-ccc-2022-09-03_14.48.26:f)
+* [What is original sin? CCC 385-390 & 396-421 Deep Dive](https://odysee.com/@CoreyStephanPh.D.:c/4---original-sin-ccc-2022-09-03_14.48.26:f)
 
 Reading
 
