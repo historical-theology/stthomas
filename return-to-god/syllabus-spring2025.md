@@ -60,10 +60,10 @@ Above all, note that you are expected:
 
 ## Required Materials
 
-I have prepared a master .pdf document for this class called "The Return to God Reader" (abbreviated "Reader"). You are strictly required to do the following:
+I have prepared a master .pdf document for this class called "The Return to God Reader" (abbreviated *Reader*). You are strictly required to do the following:
 
-1. Print the Reader, preferrably in a neatly bound manner, by the start of the second week of the semester.
-2. Bring the printed Reader with you to class every day for the entire semester.
+1. Print the *Reader*, preferrably in a neatly bound manner, by the start of the second week of the semester.
+2. Bring the printed *Reader* with you to class every day for the entire semester.
 
 ## Recommended Materials
 
@@ -116,7 +116,7 @@ The total class grade is weighted out of 100 points.
 
 1. Start of Term: (5%) READER PRINT & BIND
 
-* Having the Reader printed and bound by the start of the second week of the class earns 5% of the class grade in itself.
+* Having the *Reader* printed and bound by the start of the second week of the class earns 5% of the class grade in itself.
 
 2. Start of Term: (2.5%) CLASS SURVEY AND CONTRACT
 
@@ -196,11 +196,9 @@ Lecture
 
 Readings
 
-* Catholic Study Bible: Genesis Reading Guide (RG 120-134), Genesis Introduction (pp. 9-11), Genesis Ch. 1-3 (pp. 11-16)
-*Reader*, 1-27
+* Catholic Study Bible: Genesis Reading Guide (RG 120-134), Genesis Introduction (pp. 9-11), Genesis Ch. 1-3 (pp. 11-16)  | *Reader*, 1-27
 
-* St. Basil's Hexaemeron, Homilies I-IX (all) on [newadvent.org](https://www.newadvent.org/fathers/3201.htm)
-*Reader*, 28-91
+* St. Basil's Hexaemeron, Homilies I-IX (all) on [newadvent.org](https://www.newadvent.org/fathers/3201.htm) | *Reader*, 28-91
 
 #### Week 3: Thinking through Creation with Sts. Maximus and Francis
 Blackboard 3: Thinking through Creation
