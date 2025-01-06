@@ -149,7 +149,7 @@ The total class grade is weighted out of 100 points.
 	
 ## Schedule
 
-This is a Tuesday/Thursday class. Generally, you will be expected to have completed all of a given week's assigned lectures and readings before the *Thursday* of that week *or* before beginning work on a project directly related to those readings, whichever comes first.
+You are expected to complete the assigned readings and lectures prior to the beginning of the marked class period. (For example, an assignment listed for Thursday, January 30 must be completed before arriving to class on that date.)
 
 Items specially labeled "Optional" are *recommended* for all students but not, in fact, *required*. They variously serve as ready-to-go 'backup' tasks in case of unexpected changes to our class and supplemental materials to assist regular student learning.
 
@@ -165,9 +165,9 @@ Each instance of " *Reader*, ##-##" corresponds to my pagination in the bottom-r
 #### Week 1: Introductions
 Blackboard 1: Introductions
 
-##### August 19-23
+##### Tuesday, January 14 & Thursday, January 16
 
-Complete the Faith, Reason, and Revelation Class Survey & Contract in Blackboard by 11:59 PM on Friday, August 23 (2.5% of class grade).
+Complete the Faith, Reason, and Revelation Class Survey & Contract in Blackboard by **9:30 AM (the start of class) on Thursday, January 16**.
 
 Truth Troop Team assignments will be made by the end of the first week.
 
@@ -183,12 +183,17 @@ Lectures
 * Optional: [The Best Free Computer Sources for Catholic Theology](https://odysee.com/@CoreyStephanPh.D.:c/computer-resources-catholic-theology:7)
 * Optional: [Oxford Reference Website: Theology & History Usage Guide](https://odysee.com/@CoreyStephanPh.D.:c/oxford-reference:e)
 
-RECOMMENDATION: During the first week, start reading Bonaventure's *Life of Francis* in the background (e.g. between classes on campus), since you will need to have read the entire story (book) by the end of Unit 1.
+RECOMMENDATION: During the first week, start reading Bonaventure's *Life of Francis* during free time (e.g. between classes on campus), since you will need to have read the entire story (book) by the end of Unit 1 ( *Reader*, 128-214).
+)
 
 #### Week 2: Genesis and Creation
 Blackboard 2: Genesis and Creation
 
-##### August 26-30
+##### Tuesday, January 21
+
+Printed and bound *Readers* are required in-class every day starting on Tuesday, January 21. This is when I (Dr. Stephan) will take record of who has his/her *Reader* printed, bound, and ready for use.
+
+#### 5% of the course grade comes from arriving to class with the *Reader* on this date.
 
 Lecture
 
@@ -197,12 +202,17 @@ Lecture
 Readings
 
 * *Reader*, 1-27 | Catholic Study Bible: Genesis Reading Guide (RG 120-134), Genesis Introduction (pp. 9-11), Genesis Ch. 1-3 (pp. 11-16)
+
+##### Thursday, January 23
+
 * *Reader*, 28-91 | St. Basil's Hexaemeron, Homilies I-IX (all) on [newadvent.org](https://www.newadvent.org/fathers/3201.htm)
 
 #### Week 3: Thinking through Creation with Sts. Maximus and Francis
 Blackboard 3: Thinking through Creation
 
-##### September 2-6
+##### Tuesday, January 28
+
+##### Truth Troop Team Task #1 will happen this week.
 
 Lecture
 
@@ -210,7 +220,9 @@ Lecture
 
 Readings
 
-* Maximus's *Cosmic Mystery*: Introduction, Ambiguum 7, and Ambiguum 8 (pp. 13-78)
+* *Reader*, 92-127 | Maximus's *Cosmic Mystery*: Introduction, Ambiguum 7, and Ambiguum 8 (pp. 13-78)
+
+##### Thursday, January 30
 
 Lecture
 
@@ -218,17 +230,15 @@ Lecture
 
 Reading
 
-* Bonaventure's *Life of Francis* (all)
+* *Reader*, 128-214 | Bonaventure's *Life of Francis* (all)
 
 Lecture
 
 * Optional: [Who are the Fathers of the Church?](https://odysee.com/@CoreyStephanPh.D.:c/church-fathers:f)
 
-##### STUDY GROUP RECORDING #1 DUE BY 11:59 PM ON THURSDAY, SEPTEMBER 5.
+##### SHORT ANSWER ESSAY TEST ON TUESDAY, FEBRUARY 4.
 
-##### SHORT ANSWER ESSAY TEST ON FRIDAY, SEPTEMBER 6.
-
-The short answer essay test is specifically scheduled for the day after all Truth Troop Teams have submitted their first study group recordings.
+The short answer essay test is specifically scheduled for the day after all Truth Troop Teams have given their first presentations
 
 ### Unit 2: Fall
 *Is all lost?*
@@ -236,53 +246,62 @@ The short answer essay test is specifically scheduled for the day after all Trut
 #### Week 4: The Fall of Man
 Blackboard 4: The Fall of Man
 
-##### September 9-13
+##### Thursday, February 6
 
 Lecture
-
-* [The Fall of Man: A Close Reading of St. Maximus the Confessor’s Ad Thalassium 61](https://odysee.com/@CoreyStephanPh.D.:c/maximus-ad-thalassium-61:3)
 
 * Optional: [What is original sin? CCC 385-390 & 396-421 Deep Dive](https://odysee.com/@CoreyStephanPh.D.:c/4---original-sin-ccc-2022-09-03_14.48.26:f)
 
 Readings
 
-* Maximus's *Cosmic Mystery*: Ad Thalassium 61 (pp. 131-143)
-
-* John Milton's Paradise Lost, Book IV (available on [poetryfoundation.org](https://www.poetryfoundation.org/poems/45740/paradise-lost-book-4-1674-version))
+* *Reader*, 224-234 | John Milton's Paradise Lost, Book IV (available on [poetryfoundation.org](https://www.poetryfoundation.org/poems/45740/paradise-lost-book-4-1674-version))
 
 * Optional: [CCC #396-401](https://www.usccb.org/sites/default/files/flipbooks/catechism/102/)
 
-RECOMMENDATION: During this fourth week, start reading the Chadwick translation of Augustine's *Confessions* in the background (e.g. between classes on campus), since you will need to have read it in full by the end of Unit 2.
+##### Tuesday, February 11
+
+Lecture
+
+* [The Fall of Man: A Close Reading of St. Maximus the Confessor’s Ad Thalassium 61](https://odysee.com/@CoreyStephanPh.D.:c/maximus-ad-thalassium-61:3)
+
+Readings
+
+* *Reader*, 215-223 | Maximus's *Cosmic Mystery*: Ad Thalassium 61 (pp. 131-143)
+
+RECOMMENDATION: During this fourth week, start reading the Chadwick translation of Augustine's *Confessions* during free time (e.g. between classes on campus), since you will need to have read it in full by the end of Unit 2 ( *Reader*, 235-381).
 
 #### Week 5: Augustine's Journey through Sin and Death
 Blackboard 5-6: Augustine's Confessions
 
-##### September 16-20
+##### Truth Troop Team Task #2 will happen through Weeks 5-6 (on Augustine).
+
+##### Thursday, February 13
 
 Lectures
 
 * [The Life of St. Augustine and How to Read his Confessions](https://odysee.com/@CoreyStephanPh.D.:c/augustine-life-confessions:e)
-
 * Optional: [What is the Problem of Evil?](https://odysee.com/@CoreyStephanPh.D.:c/problem-of-evil:a)
 
 Readings
-
-* Augustine's *Confessions*: Chadwick's Introduction and Books I-VII (first half)
 
 * Optional: Larrimore, *The Problem of Evil: A Reader*, *Introduction*, Plato's *Timaeus*, and Irenaeus's *Against Heresies*
 
 * Optional: [CCC #309-314](https://www.usccb.org/sites/default/files/flipbooks/catechism/82/)
 
+##### Tuesday, February 18
+
+Readings
+
+* *Reader*, 235-302 | Augustine's *Confessions*: Chadwick's Introduction and Books I-VII (first half)
+
 #### Week 6: Augustine's Conversion and Christian Life
 Blackboard 5-6: Augustine's Confessions
 
-##### September 23-27
+##### Thursday, February 20
 
 Reading
 
-* Augustine's *Confessions*: Books  VIII-XIII (second half)
-
-##### STUDY GROUP RECORDING #2 DUE BY 11:59 PM ON FRIDAY, SEPTEMBER 27.
+* *Reader*, 302-381 | Augustine's *Confessions*: Books  VIII-XIII (second half)
 
 ### Unit 3: Christ
 *The Savior of the Universe...but how?*
@@ -290,7 +309,7 @@ Reading
 #### Week 7: John's Gospel
 Blackboard 7: John's Gospel
 
-##### September 30-October 4
+##### Tuesday, February 25
 
 Lectures
 
@@ -300,85 +319,95 @@ Lectures
 
 * Optional: [Who did Jesus claim to be? An Introduction to Jesus's Profession(s) about Himself in the Gospels](https://odysee.com/@CoreyStephanPh.D.:c/jesus-claim:c?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
+##### Thursday, February 27
+
 Readings
 
-* Catholic Study Bible: John Reading Guide (RG 457-468), John Introduction (pp. 1486-87), and John's Gospel (all, pp. 1487-1525) 
+* *Reader*, 382-437 | Catholic Study Bible: Gospels & Acts Reading Guide (RG 411-414), John Reading Guide (RG 457-468), John Introduction (pp. 1486-87), and John's Gospel (all, pp. 1487-1525) 
 
 #### Week 8: Maximus on Christ as the Unifier of the Cosmos
 Blackboard 8: Maximus on Christ as the Unifier
 
-##### October 7-11
+##### Truth Troop Team Task #3 will happen this week.
+
+##### Tuesday, March 4
 
 Lecture
 
 * [Christ’s Reunification of the Cosmos: St. Maximus the Confessor’s Ambiguum 41](https://odysee.com/@CoreyStephanPh.D.:c/maximus-cosmos:5)
 
+##### Thursday, March 6
+
 Reading
 
-* Maximus's *Ambiguum 41*, introduced and translated by Fr. Maximos Constas (Blackboard)
+* *Reader*, 438-464 | Maximus's *Ambiguum 41*, introduced and translated by Fr. Maximos Constas
 
-##### STUDY GROUP RECORDING #3 DUE BY 11:59 PM ON FRIDAY, OCTOBER 11.
+#### SPRING BREAK: NO CLASSES March 11 or March 13
 
-#### Week 9: Debate Week
+#### Week 9: Debate Week(s)
 Blackboard 9: Debate Week
 
-##### October 14-18
+##### March 18 (Tuesday), 20 (Thursday), 25 (Tuesday), & 27 (Thursday)
 
-Lecture
+Debate project details are TBA.
 
-* Return to God Group Debate Project Directions [TBA]
-
-DEBATE WEEK DETAILS ARE TBA.
-
-### Theme 4: Liturgy
+### Unit 4: Liturgy
 *Living the traditional Christian life in the modern world*
 
 #### Week 10: What is liturgy?
 Blackboard 10-11: Introduction to Liturgy
 
-##### October 21-25
+##### Truth Troop Team Task #4 will happen across Weeks 10 and 11 (on liturgy).
+
+##### Tuesday, April 1
 
 Lecture
 
 * [Introduction to Liturgy, part 1: What is Traditional Christian Liturgy? (Citing CCC & the Didache)](https://odysee.com/@CoreyStephanPh.D.:c/liturgy-part1-whatisliturgy:b)
 
+##### Thursday, April 3
+
 Reading
 
-* Ratzinger's *Spirit of the Liturgy* (all)
+* *Reader*, 465-595 | Ratzinger's *Spirit of the Liturgy* (all)
 
 #### Week 11: Why perform liturgy?
 Blackboard 10-11: Introduction to Liturgy
 
-##### October 28-November 1
+##### Tuesday, April 8
 
 Lecture
 
 * [Introduction to Liturgy, part 2: What is the Purpose of Traditional Christian Liturgy? (Citing Schmemann’s For the Life of the World)](https://odysee.com/@CoreyStephanPh.D.:c/liturgy-part2-purposeofliturgy:0?r=7zj8tpNdRxUR7QE5Tb5sWyZr1fawkv1R&lid=1e5169430fbe2f82f3a1c35912dec8a832ce8157)
 
+##### Thursday, April 10
+
 Reading
 
-* Schmemman's *Life of the World* (all)
-
-##### STUDY GROUP RECORDING #4 DUE BY 11:59 PM ON FRIDAY, NOVEMBER 1.
+* *Reader*, 596-685 | Schmemman's *Life of the World* (all)
 
 #### Week 12: Liturgy Attendance
 Blackboard 12: Liturgy Attendance
 
-##### November 4-8
+##### Tuesday, April 15
 
 Lecture
 
-* How to Attend Liturgy: Preparation, Mindset, and Prayer [TBA]
+* [Return to God Class: Liturgy Attendance Assignment (Fall 2024)](https://odysee.com/@CoreyStephanPh.D.:c/liturgy-attendance:e)
 
-##### LITURGICAL IMMERSION ASSIGNMENT DUE BY 11:59 PM ON FRIDAY, NOVEMBER 8.
+##### The Liturgical Immersion Assignment will be due by **11:59 PM on Wednesday, April 16.**
+
+#### TRIDUUM/EASTER BREAK: NO CLASS April 17
 
 ### Theme 5: Eternity
 *What is your τέλος? Dare you hope for Heaven?*
 
+#### Truth Troop Team Task #5 will happen over Weeks 13 and 14 (on Eternity).
+
 #### Week 13: Spiritual Senses
 Blackboard 13: Spiritual Senses
 
-##### November 11-15
+##### Tuesday, April 22
 
 Lectures
 
@@ -388,34 +417,36 @@ Lectures
 
 Readings
 
-* Catholic Study Bible: Song of Songs Reading Guide (RG 303-307), Song of Songs Introduction (p. 890), and Song of Songs (all) (pp. 891-898)
+* *Reader*, 686-699 | Catholic Study Bible: Song of Songs Reading Guide (RG 303-307), Song of Songs Introduction (p. 890), and Song of Songs (all) (pp. 891-898)
 
 * Optional: [CCC #1804-1831](https://www.usccb.org/sites/default/files/flipbooks/catechism/444/)
 
 #### Week 14: Heaven as a Dance
 Blackboard 14: Heaven as a Dance
 
-##### November 18-22
+##### Thursday, April 24
 
 Lecture
 
 * Heaven as a Dance [TBA]
 
+##### Tuesday, April 29
+
 Reading
 
-* Pieper's *In Tune with the World*
+* *Reader*, 700-754 | Pieper's *In Tune with the World*
 
 #### Week 15: Class Finale
 
-##### November 25-29, December 2
+##### Thursday, May 1
+
+#### CLASS ROUND-TABLE
 
 NO READINGS, NO LECTURES
 
-2 to 3 virtual class meetings will be scheduled for separate 1 hour blocks of time. Attending and actively participating in one of the class round-table discussions will count as 15% of the student's grade.
+Attending and actively participating in the class round-table discussion will count as 15% of the student's grade.
 
-##### STUDY GROUP RECORDING #5 DUE BY 11:59 PM ON FRIDAY, NOVEMBER 29.
-
-##### ASSESSMENT QUIZZES DUE BY 11:59 PM ON MONDAY, DECEMBER 2.
+##### ASSESSMENT QUIZZES DUE BY 11:59 PM ON FRIDAY, MAY 2 (details TBD).
 
 ***
 
