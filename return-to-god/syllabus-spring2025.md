@@ -67,7 +67,7 @@ I have prepared a master .pdf document for this class called "The Return to God 
 
 ## Recommended Materials
 
-The required portions of the following items are included in the Reader. If you are someone who likes to hold a traditional book, then you might wish to purchase these separately. *The Catholic Study Bible: Third Edition* (#1) is particularly recommended for all students, since it is a superb scholarly resource that one can use long past graduation.
+The required portions of the following items are included in the Reader. If you are someone who likes to hold a traditional book, then you might wish to purchase these separately. *The Catholic Study Bible: Third Edition* (#1) is particularly recommended, since it is a superb scholarly resource that one can use long past graduation.
 
 1. *The Catholic Study Bible: Third Edition* [Catholic Study Bible]
 	* ISBN 9780190267230
