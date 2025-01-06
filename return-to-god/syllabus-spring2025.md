@@ -157,7 +157,7 @@ All items not labeled "Optional" are *required* for all students.
 
 Each instance of "Blackboard #" corresponds to a specific matching numbered module (folder) inside the "Readings & Lectures" tab in Blackboard.
 
-Each instance of " *Reader*, ##-##" corresponds to my pagination in the bottom-right of each page in the Reader.
+Each instance of " *Reader*, ##-##" corresponds to my pagination in the bottom-right of each page in the *Reader*.
 
 ### Unit 1: Creation
 *Fundamentally and permanently good -- but fragile*
@@ -196,9 +196,8 @@ Lecture
 
 Readings
 
-* Catholic Study Bible: Genesis Reading Guide (RG 120-134), Genesis Introduction (pp. 9-11), Genesis Ch. 1-3 (pp. 11-16)  | *Reader*, 1-27
-
-* St. Basil's Hexaemeron, Homilies I-IX (all) on [newadvent.org](https://www.newadvent.org/fathers/3201.htm) | *Reader*, 28-91
+* *Reader*, 1-27 | Catholic Study Bible: Genesis Reading Guide (RG 120-134), Genesis Introduction (pp. 9-11), Genesis Ch. 1-3 (pp. 11-16)
+* *Reader*, 28-91 | St. Basil's Hexaemeron, Homilies I-IX (all) on [newadvent.org](https://www.newadvent.org/fathers/3201.htm)
 
 #### Week 3: Thinking through Creation with Sts. Maximus and Francis
 Blackboard 3: Thinking through Creation
