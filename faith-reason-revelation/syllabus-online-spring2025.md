@@ -65,10 +65,7 @@ I, Dr. Stephan, will consider anything short of this to be a failure—possibly 
 
 To that end, we have a "Faith, Reason, & Revelation Class Survey and Contract" in the "Start" page in Blackboard that everyone is required to complete and sign by the end of the first week.
 
-Above all, note that you are expected:
-
-1. To do all assigned readings and watch or listen to all assigned lectures every week.
-2. To do the assigned Content Quiz by Friday at 11:59 PM of each week.
+Above all, note that you are expected to do all assigned readings and watch or listen to all assigned lectures every week.
 
 ***
 
@@ -113,37 +110,30 @@ The course is divided into three thematic units:
 
 The total class grade is weighted out of 100 points.
 
-1. Start of Term: (2.5%) CLASS SURVEY AND CONTRACT
+1. Start of Term: (5%) CLASS SURVEY AND CONTRACT
 
 2. Semester Long: (50%) CONTENT QUIZZES
 
 * Weekly quiz on assigned content (readings & lectures)
 
-3. Unit 1: (15%) SHORT ANSWER TEST (Early Term Exam)
+3. Early Term: (20%) SHORT ANSWER TEST
 
 * 1 class period of writing paragraphs synthesizing the material from Unit 1 in your own reasoned language, thinking of yourselves as 'instructing the instructor'
 
-4. Unit 2: (15%) ARGUMENTATIVE SPEECH (Midterm Project)
-
-* 'Staged' argument for or against one aspect of traditional Christian belief, rooted in themes of the class
-* Each student will provide critical feedback on 3 peers' speeches
-
-5. Unit 3: (15%) COMPREHENSIVE EXAM (Final Exam)
+4. End of Term: (20%) CUMULATIVE EXAM
 
 * Timed, full-length final exam with various question types -- Details TBD
 
-6. End of Term: (2.5%) LEARNING OBJECTIVE ASSESSMENT QUIZ
+5. End of Term: (5%) LEARNING OBJECTIVE ASSESSMENT QUIZ
 
 * Online assessment quiz required for University accreditation
 
 #### Totals
-	* Class Survey, 2.5%
+	* Class Survey & Contract, 5%
 	* Content Quizzes, 50%
-	* Short Answer Test, 15%
-	* Argumentative Speech, 15%
-	* Comprehensive Exam, 15%
-	* Assessment Quiz, 2.5%
-
+	* Short Answer Test, 20%
+	* Comprehensive Exam, 20%
+	* Assessment Quiz, 5%
 
 ***
 
@@ -281,16 +271,6 @@ February 10-14
 
 *Original Sin*
 
-Class on this day will be an experimental Socratic seminar. To receive full attendance credit, you must come to class with the following:
-
-(1) Your copy of the Catechism reading ready for reference
-
-(2) One formal question about original sin
-
-(3) One formal comment about original sin
-
-You will submit your question and comment to Dr. Stephan in a manner that will be explained in class.
-
 Lecture
 
 * [What is original sin? CCC 385-390 & 396-421 Deep Dive](https://odysee.com/@CoreyStephanPh.D.:c/4---original-sin-ccc-2022-09-03_14.48.26:f)
@@ -327,8 +307,6 @@ Readings
 
 * [CCC #309-314](https://www.usccb.org/sites/default/files/flipbooks/catechism/82/)
 
-October 4
-
 *C.S. Lewis on the Problem*
 
 Lectures
@@ -347,16 +325,16 @@ Readings
 
 * Plato, *Timaeus* 27c-31b (scanned from Larrimore, Blackboard 6)
 * St. Irenaeus of Lyons, *Against Heresies* IV.1-2 (scanned from Larrimore, Blackboard 6)
-* St. Augustine of Hippo, *Confessions*, Book VII, Chadwick Translation (Blackboard 6)
 
-*Introduce Argumentative Speech task* 
-(Details TBD)
+Lectures
 
-#### CONTENT QUIZ on 6: The Problem of Evil is due by 11:59 PM on Friday, February 28.
+* Plato's *Timaeus* and the Problem of Evil (TBA)
 
 March 3-7
 
-#### Argumentative Speech projects are due by 11:59 PM on Friday, March 7.
+* St. Augustine of Hippo, *Confessions*, Book VII, Chadwick Translation (Blackboard 6)
+
+#### CONTENT QUIZ on 6: The Problem of Evil is due by 11:59 PM on Friday, March 7.
 
 Spring Break: No Assignments for March 10-14
 
