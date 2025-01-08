@@ -115,6 +115,8 @@ The total class grade is weighted out of 100 points.
 2. Semester Long: (50%) CONTENT QUIZZES
 
 * Weekly quiz on assigned content (readings & lectures)
+* The lowest content quiz score is automatically dropped from the gradebook
+* The total score is calculated cumulatively (simple point addition of total available points)
 
 3. Early Term: (20%) SHORT ANSWER TEST
 
