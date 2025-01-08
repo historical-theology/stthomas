@@ -9,13 +9,17 @@
 * Office location: Hughes 201
 	* Office hours by appointment (email in advance)
 
-#### Fall 2024
+#### Spring 2025
 
-* THEOC-1301B, 9:10-10:00 MWF, Malloy Hall 017
-* THEOC-1301C, 10:10-11:00 MWF, Malloy Hall 017
-* THEOC-1301M, 11:10-12:00 MWF, Malloy Hall 017
+*Last updated on January 8*
 
-#### Title V Core Peer Mentor (all sections: -B, -C, -M)
+Online and asynchronous (3 sections):
+
+* THEOC-1301C
+* THEOC-1301D
+* THEOC-1301E
+
+#### Title V Core Peer Mentor (all sections: -C, -D, -E)
 Ms. Elizabeth Laureano
 * Black Lab, 4100 Montrose Boulevard
 * Office hours
@@ -23,8 +27,6 @@ Ms. Elizabeth Laureano
 	* Tuesday and Thursday, 1:00-3:00 PM
 
 Each of the three class sections also has its own designated Student Success Peer Mentor. Further information about Student Success Peer Mentoring will be distributed after it has been finalized.
-
-_Minor updates on September 20, 2024_
 
 
 
@@ -66,7 +68,7 @@ To that end, we have a "Faith, Reason, & Revelation Class Survey and Contract" i
 Above all, note that you are expected:
 
 1. To do all assigned readings and watch or listen to all assigned lectures every week.
-2. To be prepared for engaging full-group and small group discussions at every required meeting.
+2. To do the assigned Content Quiz by Friday at 11:59 PM of each week.
 
 ***
 
@@ -81,7 +83,7 @@ This serves basically as our textbook. No other printed Bible suffices for our p
 
 ## Recommended / Other Books
 
-The following 3 items form an integral part of the class. Accordingly, any student who prefers to hold a physical book rather than read documents online ought to purchase them. Yet, none of them are required to be purchased; rather, starting with this Spring 2025 semester, the required reading selections from inside them will be distributed in Blackboard.
+The following 3 items form an integral part of the class. Accordingly, any student who prefers to hold a physical book rather than read documents online ought to purchase them. Yet, none of them are required to be purchased. Rather, starting with this Spring 2025 semester, the required reading selections from inside them will be distributed in Blackboard.
 
 * *The Catechism of the Catholic Church* [CCC]
 	* ISBN 0385508190 or 1601376499
@@ -91,7 +93,9 @@ The following 3 items form an integral part of the class. Accordingly, any stude
 * Brant Pitre, *The Case for Jesus* [Pitre]
 	* ISBN 978-0-385-36593-2
 
-I distribute other assigned readings in Blackboard either as .pdf scans or via hyperlinks to online materials in the public domain.
+## Other Materials
+
+I distribute other assigned reading materials in Blackboard either as .pdf scans or via hyperlinks to online materials in the public domain.
 
 ***
 
@@ -111,59 +115,42 @@ The total class grade is weighted out of 100 points.
 
 1. Start of Term: (2.5%) CLASS SURVEY AND CONTRACT
 
-2. Semester Long: (15%) ATTENDANCE
+2. Semester Long: (50%) CONTENT QUIZZES
 
-* To receive **full credit** for this category, you may miss **up to 5 class periods** (over 1 full week's worth), *including for undocumented sickness.*
-* This category will be tabulated with a simple percentage *at the end of the term.*
-	* That means that if you look in your gradebook in Blackboard and see that you have, say, 3 absences, you still have a score of 100% for attendance. Blackboard does not allow the instructor to exempt up to a certain number of absences automatically.
-* University-excused absences are excluded from the attendance grade tabulation, provided that you remind me of your official excuse. 
-	* Tracking any excused absence(s) that you might have and ensuring that they end up entered into Blackboard is your responsibility as the student.
-* No other absences are excused (excluded from the tabulation), unless you should provide a documented medical, legal, or other circumstance that precludes you from attending class (e.g. a letter from a medical or legal office) to me, the instructor.
+* Weekly quiz on assigned content (readings & lectures)
 
-3. Semester Long: (20%) TRUTH TROOP TEAM TASK(S)
-
-* 1 or more graded task with in-class learning groups
-
-4. Unit 1: (20%) SHORT ANSWER TEST (Early Term Exam)
+3. Unit 1: (15%) SHORT ANSWER TEST (Early Term Exam)
 
 * 1 class period of writing paragraphs synthesizing the material from Unit 1 in your own reasoned language, thinking of yourselves as 'instructing the instructor'
 
-5. Unit 2: (20%) PARTNER/GROUP DEBATE (Midterm Project)
+4. Unit 2: (15%) ARGUMENTATIVE SPEECH (Midterm Project)
 
-* Partner or small group 'staged' argument for and against one aspect of traditional Christian belief
-* Each pair or group will be required to provide critical feedback on 3 other pairs' or groups' projects
+* 'Staged' argument for or against one aspect of traditional Christian belief, rooted in themes of the class
+* Each student will provide critical feedback on 3 peers' speeches
 
-6. Unit 3: (20%) IN-CLASS ESSAY (Final Exam)
+5. Unit 3: (15%) COMPREHENSIVE EXAM (Final Exam)
 
-* In-class, handwritten or typed cumulative essay
+* Timed, full-length final exam with various question types -- Details TBD
 
-7. End of Term: (2.5%) LEARNING OBJECTIVE ASSESSMENT QUIZ
+6. End of Term: (2.5%) LEARNING OBJECTIVE ASSESSMENT QUIZ
 
 * Online assessment quiz required for University accreditation
 
 #### Totals
-* Individual Grades = 60%
 	* Class Survey, 2.5%
-	* Attendance, 15%
-	* Short Answer Test, 20%
-	* In-class Essay, 20%
+	* Content Quizzes, 50%
+	* Short Answer Test, 15%
+	* Argumentative Speech, 15%
+	* Comprehensive Exam, 15%
 	* Assessment Quiz, 2.5%
-* Group Grades = 40%
-	* Truth Troop Team Tasks, 20%
-	* Partner / Group Debates, 20%
 
-	
 
 ***
 
 	
 ## Schedule
 
-You are expected to have completed each week's required lectures and readings *prior to* the marked class period.
-
-Items specially labeled "Optional" are *recommended* for all students but not, in fact, *required*. They variously serve as ready-to-go 'backup' tasks in case of unexpected class cancellations (such as from extreme weather events), supplemental materials to assist regular student learning (such as for students who might learn best by themselves outside of class), and 'makeup' materials for students who might need to miss specific class periods.
-
-All items not labeled "Optional" are required for all students.
+You are expected to have completed each week's required lectures and readings *prior to* the Content Quiz (or other task) for that week.
 
 Each instance of "Blackboard #" corresponds to a specific matching numbered module (folder) inside the "Readings & Lectures" tab in Blackboard.
 
@@ -171,21 +158,18 @@ Each instance of "Blackboard #" corresponds to a specific matching numbered modu
 
 #### 1: Introductions
 
-Complete the Faith, Reason, and Revelation Class Survey & Contract in Blackboard by 11:59 PM on Friday, August 23 (2.5% of class grade)
+Complete the Faith, Reason, and Revelation Class Survey & Contract in Blackboard by 11:59 PM on Friday, January 17 (2.5% of class grade).
 
-August 19
+January 13-17
 
 *What are we doing here?*
 
-* Optional: [What is this Faith, Reason, and Revelation class?](https://odysee.com/@CoreyStephanPh.D.:c/faith-reason-revelation-introduction:e?r=7zj8tpNdRxUR7QE5Tb5sWyZr1fawkv1R&lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
-
-August 21
+* [What is this Faith, Reason, and Revelation class?](https://odysee.com/@CoreyStephanPh.D.:c/faith-reason-revelation-introduction:e?r=7zj8tpNdRxUR7QE5Tb5sWyZr1fawkv1R&lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
 *How will this Faith, Reason, and Revelation class work?*
 
-* Optional: [Faith, Reason, & Revelation: Syllabus & Class Bones](https://odysee.com/@CoreyStephanPh.D.:c/faith-reason-revelation-syllabus:0?r=7zj8tpNdRxUR7QE5Tb5sWyZr1fawkv1R&lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
-
-August 23
+TO BE UPDATED
+* [Faith, Reason, & Revelation: Syllabus & Class Bones](https://odysee.com/@CoreyStephanPh.D.:c/faith-reason-revelation-syllabus:0?r=7zj8tpNdRxUR7QE5Tb5sWyZr1fawkv1R&lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
 *What is theology? How should I start doing it?*
 
@@ -193,8 +177,6 @@ Lectures
 
 * [What is Catholic theology? 30 Minute Guide](https://odysee.com/@CoreyStephanPh.D.:c/defining-theology:e)
 * [How to Read and Think Like a Theologian](https://odysee.com/@CoreyStephanPh.D.:c/read-think-theologian:c)
-
-August 26
 
 *How should I use our class resources?*
 
@@ -206,13 +188,11 @@ Lectures
 * Optional: [The Best Free Computer Sources for Catholic Theology](https://odysee.com/@CoreyStephanPh.D.:c/computer-resources-catholic-theology:7)
 * Optional: [Oxford Reference Website: Theology & History Usage Guide](https://odysee.com/@CoreyStephanPh.D.:c/oxford-reference:e)
 
-*Truth Troop Teams assigned.*
+##### CONTENT QUIZ on 1: Introductions is due by 11:59 PM on Friday, January 17.
 
 #### 2: What is faith?
 
-*Discuss the short answer essay test task.*
-
-August 28
+January 20-24
 
 *Faith & Reason*
 
@@ -224,24 +204,17 @@ Readings
 
 * [CCC #36-43](https://www.usccb.org/sites/default/files/flipbooks/catechism/18/)
 * [Spe Salvi 1-31](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html)
-
-August 30
-
 *Faith in Human Experience, Giving Joy*
 
 Lecture
 
-* (Historical Recording) Martin Luther King, Jr.'s ["I have a dream" speech](https://archive.org/details/MLKDream)
+* (Historical Recording) Martin Luther King, Jr.'s ["I have a dream" speech](https://archive.org/details/MLKDream
 
 Reading
 
 * (Blackboard 2) Robert Cardinal Sarah, *The Day is Now Far Spent* (44-45, 224-225)
 
 #### 3: What is reason?
-
-September 2 - LABOR DAY - UST CAMPUS CLOSED
-
-September 4
 
 *What can we say about God?*
 
@@ -253,15 +226,13 @@ Reading
 
 * [CCC #153-161](https://www.usccb.org/sites/default/files/flipbooks/catechism/42/)
 
-September 6  
-  
-  #### Short Answer Essay Test
+#### SHORT ANSWER ESSAY TASK is due by 11:59 PM on Friday, January 24.
 
 ### Unit 2: Apparent Clashes of Faith and Reason
 
 #### 4: Creation(ism) and Evolution(ism)
 
-September 9
+January 27-31
 
 *Genesis & Creation*, part 1: Genre
 
@@ -273,31 +244,24 @@ Reading
 
 * (Blackboard 4) The Babylonian Genesis: The Story of Creation, pages 1-61
 
-September 11
 
 *Genesis & Creation*, part 2: Genesis 1
 
 Lecture
 
-* Optional: [Genesis 1-3 Theological Dive: Why did God create us? What does it mean that we are fallen?](https://odysee.com/@CoreyStephanPh.D.:c/genesis1-3:4)
+* [Genesis 1-3 Theological Dive: Why did God create us? What does it mean that we are fallen?](https://odysee.com/@CoreyStephanPh.D.:c/genesis1-3:4)
 
 Reading
 
-* Catholic Study Bible: Genesis Reading Guide (RG pp. 120-134), Genesis Introduction (Bible pp. 9-11), and Genesis 1 (Bible pp. 11-13)
+* (Blackboard 4) Catholic Study Bible: Genesis Reading Guide (RG pp. 120-134), Genesis Introduction (Bible pp. 9-11), and Genesis 1 (Bible pp. 11-13)
 
-In-class: Genesis 1, First Account of Creation
-
-September 13
+February 3-7
 
 *Genesis & Creation*, part 3: Genesis 2-3
 
 Reading
 
-* Catholic Study Bible: Genesis 2-3 (Bible pp. 13-16)
-
-In-class: Genesis 2-3, Second Account of Creation (Adam & Eve)
-
-September 16
+* (Blackboard 4) Catholic Study Bible: Genesis 2-3 (Bible pp. 13-16)
 
 *Creation(ism) & Evolution(ism)*
 
@@ -309,13 +273,11 @@ Reading
 
 * (Blackboard 4) St. John Paul II's Letter to Scientists
 
-September 18, 20, 23, and 25
-
-*Prepare and present Creation Myth Truth Troop Team projects*
+#### CONTENT QUIZ on 4: Creation(ism) and Evolution(ism) is due by 11:59 PM on Friday, February 7.
 
 #### 5: Original Sin
 
-September 27
+February 10-14
 
 *Original Sin*
 
@@ -337,8 +299,6 @@ Reading
 
 * [CCC #396-401](https://www.usccb.org/sites/default/files/flipbooks/catechism/102/)
 
-September 30
-
 *Am I a sinner?*
 
 Lecture
@@ -349,9 +309,11 @@ Reading
 
 * [CCC #1849-1863](https://www.usccb.org/sites/default/files/flipbooks/catechism/454/)
 
+#### CONTENT QUIZ on 5: Creation(ism) and Evolution(ism) is due by 11:59 PM on Friday, February 14.
+
 #### 6: The Problem of Evil
 
-October 2
+February 17-21
 
 *What is the Problem of Evil?*
 
@@ -377,7 +339,7 @@ Reading
 
 * C.S. Lewis, The Problem of Pain, ch. 2: Divine Omnipotence (Blackboard 6)
 
-October 7
+February 24-28
 
 *Classical Solutions to the Problem*
 
@@ -385,28 +347,24 @@ Readings
 
 * Plato, *Timaeus* 27c-31b (scanned from Larrimore, Blackboard 6)
 * St. Irenaeus of Lyons, *Against Heresies* IV.1-2 (scanned from Larrimore, Blackboard 6)
-
-October 9
-
 * St. Augustine of Hippo, *Confessions*, Book VII, Chadwick Translation (Blackboard 6)
 
-October 11  
+*Introduce Argumentative Speech task* 
+(Details TBD)
 
-*Introduce Partner/Group Debate project task* 
+#### CONTENT QUIZ on 6: The Problem of Evil is due by 11:59 PM on Friday, February 28.
 
-* Optional: [Faith, Reason, & Revelation Class Partner Debates](https://odysee.com/@CoreyStephanPh.D.:c/partner-debate-introduction-wip-2022-09-11_13.37.40:1?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
+March 3-7
 
-October 14 - UST MIDTERM BREAK - CAMPUS CLOSED
+#### Argumentative Speech projects are due by 11:59 PM on Friday, March 7.
 
-October 16, 18, 21
-
-*Partner/Group Debate project series*
+Spring Break: No Assignments for March 10-14
 
 ### Unit 3: Revelation
 
 #### 7: Biblical Inspiration: Divine & Human
 
-October 23
+March 17-21
 
 Lecture
 
@@ -414,61 +372,57 @@ Lecture
 
 Readings
 
-* Catholic Study Bible: Reading Guide, pp. 11-32 ("The Biblical Texts and Their Backgrounds" and "The Bible in Catholic Life")
+* (Blackboard 7) Catholic Study Bible: Reading Guide, pp. 11-32 ("The Biblical Texts and Their Backgrounds" and "The Bible in Catholic Life")
+
+#### CONTENT QUIZ on 7: Biblical Inspiration: Divine & Human is due by 11:59 PM on Friday, March 21.
 
 #### 8: Ecclesiastes
 
 *A week-long intensive dive into the Book of Ecclesiastes/Qoheleth as it pertains to the themes of the class*
 
-October 25
+March 24-28
 
 Reading
 
-Catholic Study Bible: Ecclesiastes/Qoheleth Reading Guide (RG pp. 298-302) and Introduction (Bible p. 879)
+(Blackboard 8) Catholic Study Bible: Ecclesiastes/Qoheleth Reading Guide (RG pp. 298-302) and Introduction (Bible p. 879)
 
 Lecture
   
-Optional: [Ecclesiastes/Qoheleth: Reading Guide and Introduction](https://odysee.com/@CoreyStephanPh.D.:c/ecclesiastes-intro:d)
-
-October 28
+[Ecclesiastes/Qoheleth: Reading Guide and Introduction](https://odysee.com/@CoreyStephanPh.D.:c/ecclesiastes-intro:d)
 
 Reading
 
-Catholic Study Bible: Ecclesiastes/Qoheleth, 1:1-6:9 (Bible pp. 879--884)
+(Blackboard 8) Catholic Study Bible: Ecclesiastes/Qoheleth, 1:1-6:9 (Bible pp. 879--884)
 
 Lecture
 
-Optional: [Ecclesiastes/Qoheleth: Close Reading, Part 1 (1:1-11 and 1:12-6:9)](https://odysee.com/@CoreyStephanPh.D.:c/ecclesiastes-part1:f)
-
-October 30  
+[Ecclesiastes/Qoheleth: Close Reading, Part 1 (1:1-11 and 1:12-6:9)](https://odysee.com/@CoreyStephanPh.D.:c/ecclesiastes-part1:f)
   
-  Reading
+Reading
 
-Catholic Study Bible: Ecclesiastes/Qoheleth, 6:10-12:14 (Bible pp. 884-890)
+(Blackboard 8) Catholic Study Bible: Ecclesiastes/Qoheleth, 6:10-12:14 (Bible pp. 884-890)
 
 Lecture
 
-Optional: [Ecclesiastes/Qoheleth: Close Reading, Part 2 (6:10-12:14)](https://odysee.com/@CoreyStephanPh.D.:c/ecclesiastes-part2:0)
+[Ecclesiastes/Qoheleth: Close Reading, Part 2 (6:10-12:14)](https://odysee.com/@CoreyStephanPh.D.:c/ecclesiastes-part2:0)
+
+#### CONTENT QUIZ on 8: Ecclesiastes/Qoheleth is due by 11:59 PM on Friday, March 28.
 
 #### 9: What are the Gospels?
 
-November 1
+March 31-April 4
 
 *What are the Gospels?*
 
 Reading
 
-* Pitre, ch. 1
+* (Blackboard 9) Pitre, ch. 1
 
 Lecture
 
-* Optional: [What are the Gospels?](https://odysee.com/@CoreyStephanPh.D.:c/gospel-genre:3?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
+* [What are the Gospels?](https://odysee.com/@CoreyStephanPh.D.:c/gospel-genre:3?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
-November 4
-
-* Pitre, ch. 2, 3, & 6
-
-November 6
+* (Blackboard 9) Pitre, ch. 2, 3, & 6
 
 *Who did Jesus claim to be?*
 
@@ -476,11 +430,14 @@ Lecture
 
 * [Who did Jesus claim to be? An Introduction to Jesus's Profession(s) about Himself in the Gospels](https://odysee.com/@CoreyStephanPh.D.:c/jesus-claim:c?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
+#### CONTENT QUIZ on 9: What are the Gospels? is due by 11:59 PM on Friday, April 4.
+
+
 #### 10: Christ and the Church
 
-November 8
+April 7-11
 
-* Pitre, ch. 9
+* (Blackboard 10) Pitre, ch. 9
 
 Lecture
 
@@ -490,19 +447,19 @@ Lecture
 
 *In-class homilies and other Patristic texts shared by the instructor*
 
+#### CONTENT QUIZ on 10: Christ and the Church is due by 11:59 PM on Friday, April 11.
+
 #### 11: Grace & Virtue
 
-November 11
+April 14-16 (Triduum Break starts April 17)
 
 *Grace & Virtue*
 
 Lectures
 
-* Optional: [Grace, Central A/C, and the Seven Gifts of the Holy Spirit](https://odysee.com/@CoreyStephanPh.D.:c/grace-ac-giftsofholyspirit:c?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
+* [Grace, Central A/C, and the Seven Gifts of the Holy Spirit](https://odysee.com/@CoreyStephanPh.D.:c/grace-ac-giftsofholyspirit:c?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
 * Sr. Albert Marie on Grace (Blackboard 7)
-
-November 13
 
 Readings
 
@@ -510,15 +467,17 @@ Readings
 
 * Teresa, p.307-319
 
+#### CONTENT QUIZ on 11: Grace & Virtue is due by 11:59 PM on **Wednesday**, April 16 (before break).
+
 #### 12: Miracles
 
-November 15
+April 21-25
 
 *What are miracles?*
 
 Lecture
 
-* Optional: [What are miracles? (Live Class Recording)](https://odysee.com/@CoreyStephanPh.D.:c/miracles:44?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
+* [What are miracles? (Live Class Recording)](https://odysee.com/@CoreyStephanPh.D.:c/miracles:44?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
 Reading
 
@@ -528,35 +487,19 @@ Reading
 
 * Miracles in Lourdes (Blackboard 12)
 
-#### Cumulative Essay (Final Exam)
+#### CONTENT QUIZ on 12: Miracles is due by 11:59 PM on Friday, April 25.
 
-November 18
+April 28-May 2
 
-*What is this cumulative essay assignment? How should I approach it?*
+#### Cumulative Exam Week
 
-November 20
+* Lecture
 
-*Full class cumulative review, Day 1*
+Class review video lecture (TBA)
 
-November 22
+#### CUMULATIVE EXAM is due by 11:59 PM on Friday, May 2.
 
-*Full class cumulative review, Day 2*
-
-November 25
-
-**CUMULATIVE ESSAY**
-
-*by "Blue Books" (hand-written) or live typing (computer keyboard)*
-
-###  November 27 - 29 THANKSGIVING BREAK
-
-#### Class Wrap-Up
-
-December 2
-
-Learning Objective Assessment Quizzes (2.5% of class grade)
-
-Class Round-Table Discussion
+#### LEARNING OBJECTIVE ASSESSMENT QUIZ is due by 11:59 PM on Friday, May 2.
 
 ***
 
@@ -568,13 +511,13 @@ In accordance with Section 504 of the Federal Rehabilitation Act of 1973, and th
      
 Students with disabilities who require accommodations for this class, must register with the Office of Access & Disability Services (ADS) and provide documentation of a disability to determine what accommodations are most appropriate. Please note that accommodations are not retroactive and disability accommodations are not provided until a Course Accessibility Letter has been provided to the instructor. For questions regarding academic accommodations and accessibility, please contact the Office of Access and Disability Services by email at ACCESS@STTHOM.EDU, or visit the ADS website at STTHOM.EDU/ACCESS.
 
-### Preparation
+### Textbook
 
-You must have all the required textbooks, ideally as soon as the class begins. Their ISBN numbers must match those on the syllabus. It is your responsibility, not the bookstore’s, to arrange to have the proper books.
+You must have The Catholic Study Bible: Third Edition.
 
 ### Meetings
 
-I encourage you to meet with me (Dr. Stephan) outside of the classroom, especially for guidance on the readings and assignments. Generally, appointments will be handled during my office hours (as listed at the beginning of this document).
+I encourage you to meet with me (Dr. Stephan), especially for guidance on the readings and assignments. Generally, appointments will be handled during my office hours (as listed at the beginning of this document).
 
 ### Communication
 
@@ -583,14 +526,6 @@ You must use university email for electronic correspondence with me. I do not co
 ***
 
 ## Other Class Policies
-
-### Electronic Devices
-
-Electronic devices such as laptop computers and digital tablets are only permitted in class when situationally required, such as for doing a group project or accessing a specific digital reading -- or, of course, for students with documented medical conditions (notably, visual impairments) that require the use of specific electronic accessories. Otherwise, they should not be used in class. I (Dr. Stephan) strongly prefer that such electronic devices be kept in students' bags.
-
-I might ask a student who distracts other students and/or the instructor with out-of-place electronic device usage to leave the class for the day; that student would then be marked as "Absent" against his/her attendance record (grade).
-
-Cell phone usage is never appropriate in a classroom. If you should have an urgent matter to address that requires making a telephone call or text messaging, then you ought to step out of the room to take care of it.
 
 ### Late Submissions
 
