@@ -11,7 +11,7 @@
 
 #### Spring 2025
 
-*Last updated on January 8*
+*Last updated on January 9*
 
 Online and asynchronous (3 sections):
 
@@ -76,11 +76,11 @@ You are only required to purchase one item for this class, namely,
 *  *The Catholic Study Bible: Third Edition* [Catholic Study Bible]
 	* ISBN 9780190267230
 
-This serves basically as our textbook. No other printed Bible suffices for our purposes, since this has specific historical, linguistic, and other scholarly information that is of highest importance for our university-level, academic context.
+Basically, this serves as our textbook. No other printed Bible suffices for our purposes, since this has specific historical, linguistic, and other scholarly information that is of highest importance for our university-level, academic context.
 
 ## Recommended / Other Books
 
-The following 3 items form an integral part of the class. Accordingly, any student who prefers to hold a physical book rather than read documents online ought to purchase them. Yet, none of them are required to be purchased. Rather, starting with this Spring 2025 semester, the required reading selections from inside them will be distributed in Blackboard.
+The following 3 items form an integral part of the class. Accordingly, any student who prefers to hold a physical book rather than read documents online ought to purchase each of these, rent them, or otherwise acquire them when readings from them are assigned. Yet, it is not required that any student own any of them. Rather, starting with this Spring 2025 semester, the required reading selections from inside them will be distributed in Blackboard.
 
 * *The Catechism of the Catholic Church* [CCC]
 	* ISBN 0385508190 or 1601376499
@@ -114,9 +114,9 @@ The total class grade is weighted out of 100 points.
 
 2. Semester Long: (50%) CONTENT QUIZZES
 
-* Weekly quiz on assigned content (readings & lectures)
+* 10 quizzes on assigned content (Readings & Lectures)
 * The lowest content quiz score is automatically dropped from the gradebook
-* The total score is calculated cumulatively (simple point addition of total available points)
+* The total score for Content Quizzes is calculated cumulatively (simple point addition of total available points)
 
 3. Early Term: (20%) SHORT ANSWER TEST
 
@@ -142,7 +142,7 @@ The total class grade is weighted out of 100 points.
 	
 ## Schedule
 
-You are expected to have completed each week's required lectures and readings *prior to* the Content Quiz (or other task) for that week.
+You are expected to have completed each week's required lectures and readings *prior to* the Content Quiz or other task for that week.
 
 Each instance of "Blackboard #" corresponds to a specific matching numbered module (folder) inside the "Readings & Lectures" tab in Blackboard.
 
@@ -161,7 +161,7 @@ January 13-17
 *How will this Faith, Reason, and Revelation class work?*
 
 TO BE UPDATED
-* [Faith, Reason, & Revelation: Syllabus & Class Bones](https://odysee.com/@CoreyStephanPh.D.:c/faith-reason-revelation-syllabus:0?r=7zj8tpNdRxUR7QE5Tb5sWyZr1fawkv1R&lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
+* [Faith, Reason, & Revelation: Syllabus & Class Bones (Spring 2025, Online)](https://odysee.com/@CoreyStephanPh.D.:c/faith-reason-revelation-syllabus:0?r=7zj8tpNdRxUR7QE5Tb5sWyZr1fawkv1R&lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
 *What is theology? How should I start doing it?*
 
