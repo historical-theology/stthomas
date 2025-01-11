@@ -11,7 +11,7 @@
 
 #### Spring 2025
 
-*Last updated on January 9*
+*Last updated on January 11*
 
 Online and asynchronous (3 sections):
 
@@ -19,6 +19,7 @@ Online and asynchronous (3 sections):
 * THEOC-1301D
 * THEOC-1301E
 
+<!---
 #### Title V Core Peer Mentor (all sections: -C, -D, -E)
 Ms. Elizabeth Laureano
 * Black Lab, 4100 Montrose Boulevard
@@ -27,6 +28,7 @@ Ms. Elizabeth Laureano
 	* Tuesday and Thursday, 1:00-3:00 PM
 
 Each of the three class sections also has its own designated Student Success Peer Mentor. Further information about Student Success Peer Mentoring will be distributed after it has been finalized.
+--->
 
 
 
@@ -69,18 +71,18 @@ Above all, note that you are expected to do all assigned readings and watch or l
 
 ***
 
-## Required Book
+## Recommended Books
 
-You are only required to purchase one item for this class, namely,
+You are **not** required to purchase any book(s) for this class.
+
+You are, however, strongly recommended to purchase the specific Study Bible from which we will be reading several major portions this semester, that is,
 
 *  *The Catholic Study Bible: Third Edition* [Catholic Study Bible]
 	* ISBN 9780190267230
 
 Basically, this serves as our textbook. No other printed Bible suffices for our purposes, since this has specific historical, linguistic, and other scholarly information that is of highest importance for our university-level, academic context.
 
-## Recommended / Other Books
-
-The following 3 items form an integral part of the class. Accordingly, any student who prefers to hold a physical book rather than read documents online ought to purchase each of these, rent them, or otherwise acquire them when readings from them are assigned. Yet, it is not required that any student own any of them. Rather, starting with this Spring 2025 semester, the required reading selections from inside them will be distributed in Blackboard.
+The following 3 items also form an integral part of the class. Accordingly, any student who prefers to hold a physical book rather than read documents online ought to purchase each of these, rent them, or otherwise acquire them when readings from them are assigned. Yet, the selections from them that you are required to read are available in Blackboard.
 
 * *The Catechism of the Catholic Church* [CCC]
 	* ISBN 0385508190 or 1601376499
@@ -313,7 +315,9 @@ Readings
 
 Lectures
 
-* Sr. Albert Marie on the Problem of Evil (Blackboard 6)
+* Sr. Albert Marie on Mother Teresa
+
+* Sr. Albert Marie on the Problem of Evil
 
 Reading
 
@@ -326,11 +330,8 @@ February 24-28
 Readings
 
 * Plato, *Timaeus* 27c-31b (scanned from Larrimore, Blackboard 6)
+
 * St. Irenaeus of Lyons, *Against Heresies* IV.1-2 (scanned from Larrimore, Blackboard 6)
-
-Lectures
-
-* Plato's *Timaeus* and the Problem of Evil (TBA)
 
 March 3-7
 
@@ -348,11 +349,11 @@ March 17-21
 
 Lecture
 
-* Sr. Albert Marie on Biblical Inspiration (Blackboard 8)
+* Sr. Albert Marie on Biblical Inspiration (Blackboard 7)
 
 Readings
 
-* (Blackboard 7) Catholic Study Bible: Reading Guide, pp. 11-32 ("The Biblical Texts and Their Backgrounds" and "The Bible in Catholic Life")
+* Catholic Study Bible: Reading Guide, pp. 11-32 ("The Biblical Texts and Their Backgrounds" and "The Bible in Catholic Life") (Blackboard 7)
 
 #### CONTENT QUIZ on 7: Biblical Inspiration: Divine & Human is due by 11:59 PM on Friday, March 21.
 
@@ -364,7 +365,7 @@ March 24-28
 
 Reading
 
-(Blackboard 8) Catholic Study Bible: Ecclesiastes/Qoheleth Reading Guide (RG pp. 298-302) and Introduction (Bible p. 879)
+* Catholic Study Bible: Ecclesiastes/Qoheleth Reading Guide (RG pp. 298-302) and Introduction (Bible p. 879) (Blackboard 8)
 
 Lecture
   
@@ -372,7 +373,7 @@ Lecture
 
 Reading
 
-(Blackboard 8) Catholic Study Bible: Ecclesiastes/Qoheleth, 1:1-6:9 (Bible pp. 879--884)
+Catholic Study Bible: Ecclesiastes/Qoheleth, 1:1-6:9 (Bible pp. 879--884) (Blackboard 8)
 
 Lecture
 
@@ -380,7 +381,7 @@ Lecture
   
 Reading
 
-(Blackboard 8) Catholic Study Bible: Ecclesiastes/Qoheleth, 6:10-12:14 (Bible pp. 884-890)
+Catholic Study Bible: Ecclesiastes/Qoheleth, 6:10-12:14 (Bible pp. 884-890) (Blackboard 8)
 
 Lecture
 
@@ -396,15 +397,17 @@ March 31-April 4
 
 Reading
 
-* (Blackboard 9) Pitre, ch. 1
+* Pitre, ch. 1 (Blackboard 9) 
 
 Lecture
 
 * [What are the Gospels?](https://odysee.com/@CoreyStephanPh.D.:c/gospel-genre:3?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
-* (Blackboard 9) Pitre, ch. 2, 3, & 6
-
 *Who did Jesus claim to be?*
+
+Reading
+
+* Pitre, ch. 2, 3, & 6 (Blackboard 9)
 
 Lecture
 
