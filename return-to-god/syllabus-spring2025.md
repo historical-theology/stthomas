@@ -12,7 +12,7 @@ Spring 2025
 Tuesdays & Thursdays 9:35AM - 10:50AM
 Robertson #116
 
-Syllabus last updated on January 6
+Syllabus last updated on January 12
 
 Notes:
 
@@ -126,7 +126,7 @@ The total class grade is weighted out of 100 points.
 
 4. Unit 1 (Creation): (15%) SHORT ANSWER TEST (Early Term Exam)
 
-* 1 timed hour of writing paragraphs synthesizing the material from Unit 1 into your own reasoned language, thinking of yourselves as 'instructing the instructor'
+* Timed test in which you will write short paragraphs synthesizing the material from Unit 1 into your own reasoned language, thinking of yourselves as 'instructing the instructor'
 	
 5. Units 2 and 3 (Fall and Christ): (20%) PARTNER/GROUP DEBATE
 
@@ -460,7 +460,7 @@ Students with disabilities who require accommodations for this class, must regis
 
 ### Preparation
 
-You must have all the required textbooks, ideally as soon as the class begins. Their ISBN numbers must match those on the syllabus. It is your responsibility, not the bookstore’s, to arrange to have the proper books.
+You must have the printed and bound *Reader* with you for every class period, starting on Tuesday, January 21.
 
 ### Meetings
 
