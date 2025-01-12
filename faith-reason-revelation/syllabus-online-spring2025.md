@@ -11,7 +11,7 @@
 
 #### Spring 2025
 
-*Last updated on January 11*
+*Last updated in the evening of January 11*
 
 Online and asynchronous (3 sections):
 
@@ -162,8 +162,7 @@ January 13-17
 
 *How will this Faith, Reason, and Revelation class work?*
 
-TO BE UPDATED
-* [Faith, Reason, & Revelation: Syllabus & Class Bones (Spring 2025, Online)](https://odysee.com/@CoreyStephanPh.D.:c/faith-reason-revelation-syllabus:0?r=7zj8tpNdRxUR7QE5Tb5sWyZr1fawkv1R&lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
+* [Faith, Reason, & Revelation: Syllabus & Class Bones (Spring 2025, Online)](https://odysee.com/@CoreyStephanPh.D.:c/faith-reason-revelation-syllabus-spring2025:c)
 
 *What is theology? How should I start doing it?*
 
@@ -494,10 +493,6 @@ In accordance with Section 504 of the Federal Rehabilitation Act of 1973, and th
      
 Students with disabilities who require accommodations for this class, must register with the Office of Access & Disability Services (ADS) and provide documentation of a disability to determine what accommodations are most appropriate. Please note that accommodations are not retroactive and disability accommodations are not provided until a Course Accessibility Letter has been provided to the instructor. For questions regarding academic accommodations and accessibility, please contact the Office of Access and Disability Services by email at ACCESS@STTHOM.EDU, or visit the ADS website at STTHOM.EDU/ACCESS.
 
-### Textbook
-
-You must have The Catholic Study Bible: Third Edition.
-
 ### Meetings
 
 I encourage you to meet with me (Dr. Stephan), especially for guidance on the readings and assignments. Generally, appointments will be handled during my office hours (as listed at the beginning of this document).
@@ -512,9 +507,7 @@ You must use university email for electronic correspondence with me. I do not co
 
 ### Late Submissions
 
-I (Dr. Stephan) know that life happens, and I know that the best work sometimes has to be submitted late (the Sistine Chapel's painting went behind schedule, after all). At the same time, this class is a team effort, so we all must strive to have our work to share with each other on time. Even one 'weak link' can tear down everyone's experience; you (as an individual student) really do matter to the class as a whole.
-
-With all that in mind, I have structured class assignments in such a way that there should not be any legitimate reason for anyone to make a late submission. Most late submissions will incur a late penalty, and, occasionally, I will not be able to accept a late submission at all.
+In this online and asynchronous class, no late submissions will be accepted.
 
 ### Statement on Software Freedom
 I (Dr. Stephan) am a longtime advocate of Free Software as defined by the [Free Software Foundation](https://www.gnu.org/philosophy/free-sw.en.html). I encourage you to teach yourself about software freedom. For my part, I promise that I will never require you to use non-free software -- except class infrastructural tools that are currently required as part of our experience at the University of St. Thomas (e.g. Microsoft Teams and Blackboard) or otherwise of practical necessity for our work at hand. Whenever possible, I will encourage you to prepare your work in free software and submit it in formats with open standards.
