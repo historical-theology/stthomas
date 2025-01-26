@@ -400,7 +400,7 @@ Reading
 
 #### TRIDUUM/EASTER BREAK: NO CLASS April 17
 
-### Theme 5: Eternity
+### Unit 5: Eternity
 *What is your τέλος? Dare you hope for Heaven?*
 
 #### Truth Troop Team Task #5 will happen over Weeks 13 and 14 (on Eternity).
