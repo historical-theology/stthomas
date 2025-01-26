@@ -12,7 +12,7 @@ Spring 2025
 Tuesdays & Thursdays 9:35AM - 10:50AM
 Robertson #116
 
-*Following the University's closure for a winter weather event, the schedule in this syllabus had a major revision on January 26.*
+*Following the University's closure for a winter weather event, the scheduling portions of this syllabus were revised on January 26.*
 
 Notes:
 
@@ -186,12 +186,14 @@ Lectures
 RECOMMENDATION: During the first week, start reading Bonaventure's *Life of Francis* during free time (e.g. between classes on campus), since you will need to have read the entire story (book) by the end of Unit 1 ( *Reader*, 128-214).
 )
 
+##### Tuesday, January 21 and Thursday, January 23 -- UNIVERSTIY CLOSED for winter weather event
+
 #### Week 2: Genesis and Creation
 Blackboard 2: Genesis and Creation
 
-##### Tuesday, January 21
+##### Tuesday, January 28
 
-Printed and bound *Readers* are required in-class every day starting on Tuesday, January 21. This is when I (Dr. Stephan) will take record of who has his/her *Reader* printed, bound, and ready for use.
+Printed and bound *Readers* are required in-class every day starting on Tuesday, January 28 (originally January 21). This is when I (Dr. Stephan) will take record of who has his/her *Reader* printed, bound, and ready for use.
 
 #### 5% of the course grade comes from arriving to class with the *Reader* on this date.
 
@@ -203,16 +205,16 @@ Readings
 
 * *Reader*, 1-27 | Catholic Study Bible: Genesis Reading Guide (RG 120-134), Genesis Introduction (pp. 9-11), Genesis Ch. 1-3 (pp. 11-16)
 
-##### Thursday, January 23
+##### Thursday, January 30
 
 * *Reader*, 28-91 | St. Basil's Hexaemeron, Homilies I-IX (all) on [newadvent.org](https://www.newadvent.org/fathers/3201.htm)
 
 #### Week 3: Thinking through Creation with Sts. Maximus and Francis
 Blackboard 3: Thinking through Creation
 
-##### Tuesday, January 28
-
 ##### Truth Troop Team Task #1 will happen this week.
+
+##### Tuesday, February 4
 
 Lecture
 
@@ -222,7 +224,7 @@ Readings
 
 * *Reader*, 92-127 | Maximus's *Cosmic Mystery*: Introduction, Ambiguum 7, and Ambiguum 8 (pp. 13-78)
 
-##### Thursday, January 30
+##### Thursday, February 6
 
 Lecture
 
@@ -236,9 +238,9 @@ Lecture
 
 * Optional: [Who are the Fathers of the Church?](https://odysee.com/@CoreyStephanPh.D.:c/church-fathers:f)
 
-##### SHORT ANSWER ESSAY TEST ON TUESDAY, FEBRUARY 4.
+##### SHORT ANSWER ESSAY TEST ON Tuesday, FEBRUARY 11 (originally February 4).
 
-The short answer essay test is specifically scheduled for the day after all Truth Troop Teams have given their first presentations
+The short answer essay test is specifically scheduled for the day after all Truth Troop Teams have given their first presentations.
 
 ### Unit 2: Fall
 *Is all lost?*
@@ -246,7 +248,7 @@ The short answer essay test is specifically scheduled for the day after all Trut
 #### Week 4: The Fall of Man
 Blackboard 4: The Fall of Man
 
-##### Thursday, February 6
+##### Thursday, February 13
 
 Lecture
 
@@ -258,7 +260,7 @@ Readings
 
 * Optional: [CCC #396-401](https://www.usccb.org/sites/default/files/flipbooks/catechism/102/)
 
-##### Tuesday, February 11
+##### Tuesday, February 18
 
 Lecture
 
@@ -275,7 +277,7 @@ Blackboard 5-6: Augustine's Confessions
 
 ##### Truth Troop Team Task #2 will happen through Weeks 5-6 (on Augustine).
 
-##### Thursday, February 13
+##### Thursday, February 20
 
 Lectures
 
@@ -288,7 +290,7 @@ Readings
 
 * Optional: [CCC #309-314](https://www.usccb.org/sites/default/files/flipbooks/catechism/82/)
 
-##### Tuesday, February 18
+##### Tuesday, February 25
 
 Readings
 
@@ -297,7 +299,7 @@ Readings
 #### Week 6: Augustine's Conversion and Christian Life
 Blackboard 5-6: Augustine's Confessions
 
-##### Thursday, February 20
+##### Thursday, February 27
 
 Reading
 
@@ -309,7 +311,7 @@ Reading
 #### Week 7: John's Gospel
 Blackboard 7: John's Gospel
 
-##### Tuesday, February 25
+##### Tuesday, March 4
 
 Lectures
 
@@ -319,35 +321,36 @@ Lectures
 
 * Optional: [Who did Jesus claim to be? An Introduction to Jesus's Profession(s) about Himself in the Gospels](https://odysee.com/@CoreyStephanPh.D.:c/jesus-claim:c?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
-##### Thursday, February 27
+##### Thursday, March 6
 
 Readings
 
 * *Reader*, 382-437 | Catholic Study Bible: Gospels & Acts Reading Guide (RG 411-414), John Reading Guide (RG 457-468), John Introduction (pp. 1486-87), and John's Gospel (all, pp. 1487-1525) 
+
+#### SPRING BREAK: NO CLASSES March 11 or March 13
 
 #### Week 8: Maximus on Christ as the Unifier of the Cosmos
 Blackboard 8: Maximus on Christ as the Unifier
 
 ##### Truth Troop Team Task #3 will happen this week.
 
-##### Tuesday, March 4
+##### Tuesday, March 18
 
 Lecture
 
 * [Christ’s Reunification of the Cosmos: St. Maximus the Confessor’s Ambiguum 41](https://odysee.com/@CoreyStephanPh.D.:c/maximus-cosmos:5)
 
-##### Thursday, March 6
+##### Thursday, March 20
 
 Reading
 
 * *Reader*, 438-464 | Maximus's *Ambiguum 41*, introduced and translated by Fr. Maximos Constas
 
-#### SPRING BREAK: NO CLASSES March 11 or March 13
 
 #### Week 9: Debate Week(s)
 Blackboard 9: Debate Week
 
-##### March 18 (Tuesday), 20 (Thursday), 25 (Tuesday), & 27 (Thursday)
+##### March 25 (Tuesday), March 27 (Thursday), April 1 (Tuesday), & April 3 (Thursday)
 
 Debate project details are TBA.
 
@@ -359,43 +362,41 @@ Blackboard 10-11: Introduction to Liturgy
 
 ##### Truth Troop Team Task #4 will happen across Weeks 10 and 11 (on liturgy).
 
-##### Tuesday, April 1
+##### Tuesday, April 8
 
 Lecture
 
 * [Introduction to Liturgy, part 1: What is Traditional Christian Liturgy? (Citing CCC & the Didache)](https://odysee.com/@CoreyStephanPh.D.:c/liturgy-part1-whatisliturgy:b)
 
-##### Thursday, April 3
+##### Thursday, April 10
 
 Reading
 
 * *Reader*, 465-595 | Ratzinger's *Spirit of the Liturgy* (all)
 
-#### Week 11: Why perform liturgy?
-Blackboard 10-11: Introduction to Liturgy
-
-##### Tuesday, April 8
-
-Lecture
-
-* [Introduction to Liturgy, part 2: What is the Purpose of Traditional Christian Liturgy? (Citing Schmemann’s For the Life of the World)](https://odysee.com/@CoreyStephanPh.D.:c/liturgy-part2-purposeofliturgy:0?r=7zj8tpNdRxUR7QE5Tb5sWyZr1fawkv1R&lid=1e5169430fbe2f82f3a1c35912dec8a832ce8157)
-
-##### Thursday, April 10
-
-Reading
-
-* *Reader*, 596-685 | Schmemman's *Life of the World* (all)
-
-#### Week 12: Liturgy Attendance
+#### ADDENDUM: Liturgy Attendance (originally later)
 Blackboard 12: Liturgy Attendance
-
-##### Tuesday, April 15
 
 Lecture
 
 * [Return to God Class: Liturgy Attendance Assignment (Fall 2024)](https://odysee.com/@CoreyStephanPh.D.:c/liturgy-attendance:e)
 
-##### The Liturgical Immersion Assignment will be due by **11:59 PM on Wednesday, April 16.**
+##### The Liturgical Immersion Assignment will be due no later than **9:35 AM (the start of class) on Tuesday, April 22** (originally Wednesday, April 16).
+
+*I have moved the assignment directions to this location so that you may have two full weekends to complete the project and will not strictly need to do so during Triduum/Easter Break (your choice).*
+
+#### Week 11: Why perform liturgy?
+Blackboard 10-11: Introduction to Liturgy
+
+##### Tuesday, April 15
+
+Lecture
+
+* [Introduction to Liturgy, part 2: What is the Purpose of Traditional Christian Liturgy? (Citing Schmemann’s For the Life of the World)](https://odysee.com/@CoreyStephanPh.D.:c/liturgy-part2-purposeofliturgy:0?r=7zj8tpNdRxUR7QE5Tb5sWyZr1fawkv1R&lid=1e5169430fbe2f82f3a1c35912dec8a832ce8157)
+
+Reading
+
+* *Reader*, 596-685 | Schmemman's *Life of the World* (all)
 
 #### TRIDUUM/EASTER BREAK: NO CLASS April 17
 
@@ -415,26 +416,21 @@ Lectures
 
 * Optional: [Grace, Central A/C, and the Seven Gifts of the Holy Spirit](https://odysee.com/@CoreyStephanPh.D.:c/grace-ac-giftsofholyspirit:c?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
+##### Thursday, April 24 (originally April 22 -- moved so that there is not a new large reading over Triduum/Easter break)
+
 Readings
 
 * *Reader*, 686-699 | Catholic Study Bible: Song of Songs Reading Guide (RG 303-307), Song of Songs Introduction (p. 890), and Song of Songs (all) (pp. 891-898)
 
 * Optional: [CCC #1804-1831](https://www.usccb.org/sites/default/files/flipbooks/catechism/444/)
 
-#### Week 14: Heaven as a Dance
-Blackboard 14: Heaven as a Dance
-
-##### Thursday, April 24
-
-Lecture
-
-* Heaven as a Dance [TBA]
+#### Week 14: Heaven as a Dance REMOVED
 
 ##### Tuesday, April 29
 
-Reading
+*This is now a 'Flex Day,' that is, a 'free' day built into the syllabus so that if we have an unexpected class cancellation we may simply push back our class schedule by one day. If the 'Flex Day' is unused, then this may be a day without class.*
 
-* *Reader*, 700-754 | Pieper's *In Tune with the World*
+*Students are now *encouraged* -- but not *required* -- to read the *Reader's* final entry, that is, Pieper's *In Tune with the World*, chiefly as an act of intellectual self-enrichment.
 
 #### Week 15: Class Finale
 
@@ -460,11 +456,11 @@ Students with disabilities who require accommodations for this class, must regis
 
 ### Preparation
 
-You must have the printed and bound *Reader* with you for every class period, starting on Tuesday, January 21.
+You must have the printed and bound *Reader* with you for every class period, starting on Tuesday, January 28 (originally January 21).
 
 ### Meetings
 
-I encourage you to meet with me (Dr. Stephan) outside of the classroom, especially for guidance on the readings and assignments. Generally, appointments will be handled during my office hours (as listed at the beginning of this document).
+I encourage you to meet with me (Dr. Stephan) outside of the classroom, especially for guidance on the readings and assignments. Generally, appointments will be planned ahead by email (24 hours or more).
 
 ### Communication
 
