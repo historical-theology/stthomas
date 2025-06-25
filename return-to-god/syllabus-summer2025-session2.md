@@ -12,7 +12,7 @@ Summer Session II (2025)
 
 Online and Asynchronous
 
-WORK-IN-PROGRESS: _This syllabus was last updated on Tuesday, June 24._
+_This syllabus was last updated on Tuesday, June 24._
 
 Notes:
 
@@ -148,7 +148,7 @@ Dates listed next to a task/item for you to submit/complete are _strict due date
 
 #### Blackboard 1: Introductions
 
-Complete the Faith, Reason, and Revelation Class Survey & Contract in Blackboard by **11:59 PM on Friday, June 25**.
+Complete the Faith, Reason, and Revelation Class Survey & Contract in Blackboard by **11:59 PM on Friday, June 27**.
 
 Lectures
 
@@ -201,7 +201,7 @@ Lecture
 
 ##### The Liturgical Immersion Assignment will be due no later than **11:59 PM on Friday, July 18.**
 
-The reason why I have this 'main' or 'final' project due by this date, about 2 weeks before the end of the term, is so that every student will have the opportunity to choose (optionally) to do a revision for an improved grade.
+The reason why I have this 'main' or 'final' project due by this date, 2 weeks before the end of the term, is so that every student will have the opportunity to choose (optionally) to do a revision for an improved grade.
 
 ### Unit 2: Fall
 *Is all lost?*
