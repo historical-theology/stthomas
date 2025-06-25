@@ -144,11 +144,11 @@ Dates listed next to a task/item for you to submit/complete are _strict due date
 ### Unit 1: Creation
 *Fundamentally and permanently good -- but fragile*
 
-##### May 19-23
+##### June 25-27
 
 #### Blackboard 1: Introductions
 
-Complete the Faith, Reason, and Revelation Class Survey & Contract in Blackboard by **11:59 PM on Friday, May 23**.
+Complete the Faith, Reason, and Revelation Class Survey & Contract in Blackboard by **11:59 PM on Friday, June 25**.
 
 Lectures
 
@@ -177,7 +177,7 @@ Readings
 
 #### Blackboard 3: Thinking through Creation
 
-##### May 24 - 30 (Recommended Reading Dates)
+##### June 28-July 2 (Recommended Reading Dates)
 
 Lecture
 
@@ -191,7 +191,7 @@ Lecture
 
 * Optional: [Who are the Fathers of the Church?](https://odysee.com/@CoreyStephanPh.D.:c/church-fathers:f)
 
-##### SHORT ANSWER ESSAY TEST is due by Friday, May 30 at 11:59 PM.
+##### SHORT ANSWER ESSAY TEST is due by Thursday, July 3 at 11:59 PM.
 
 #### Blackboard 12: Liturgy Attendance
 
@@ -199,16 +199,16 @@ Lecture
 
 * [Return to God Class: Liturgy Attendance Assignment (Fall 2024)](https://odysee.com/@CoreyStephanPh.D.:c/liturgy-attendance:e)
 
-##### The Liturgical Immersion Assignment will be due no later than **11:59 PM on Friday, June 13.**
+##### The Liturgical Immersion Assignment will be due no later than **11:59 PM on Friday, July 18.**
 
-The reason why I have this 'main' or 'final' project due by this date, 11 days before the end of the term, is so that every student will have the opportunity to choose (optionally) to do a revision for an improved grade.
+The reason why I have this 'main' or 'final' project due by this date, about 2 weeks before the end of the term, is so that every student will have the opportunity to choose (optionally) to do a revision for an improved grade.
 
 ### Unit 2: Fall
 *Is all lost?*
 
 #### Blackboard 4: The Fall of Man
 
-##### May 31 - June 6 (Recommended Reading Dates -- Includes John's Gospel)
+##### July 4 - July 11 (Recommended Reading Dates -- Includes John's Gospel)
 
 Lecture
 
@@ -250,7 +250,7 @@ Readings
 
 #### Blackboard 10-11: Introduction to Liturgy
 
-##### June 7 - 13 (Recommended Reading Dates)
+##### July 7 - July 11 (Recommended Reading Dates)
 
 Lecture
 
@@ -268,7 +268,7 @@ Reading
 
 * *Reader*, 596-685 | Schmemman's *Life of the World* (all)
 
-REMEMBER that the Liturgy Attendance Assignment is due by **11:59 PM on June 13.**
+REMEMBER that the Liturgy Attendance Assignment is due by **11:59 PM on Friday, July 18.**
 
 #### Blackboard 13: Spiritual Senses
 
@@ -287,7 +287,7 @@ Readings
 * Optional: [CCC #1804-1831](https://www.usccb.org/sites/default/files/flipbooks/catechism/444/)
 
 
-##### ASSESSMENT QUIZZES are due by 11:59 PM on Tuesday, June 24.
+##### ASSESSMENT QUIZZES are due by 11:59 PM on Thursday, July 31.
 
 ***
 
