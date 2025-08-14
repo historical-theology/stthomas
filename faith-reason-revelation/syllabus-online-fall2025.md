@@ -147,7 +147,7 @@ Each instance of "Blackboard #" corresponds to a specific matching numbered modu
 
 Complete the Faith, Reason, and Revelation Class Survey & Contract in Blackboard by 11:59 PM on Friday, August 22 (5% of class grade).
 
-January 13-17
+August 18-22
 
 *What are we doing here?*
 
