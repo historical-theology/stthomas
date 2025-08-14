@@ -1,17 +1,21 @@
 ![University of St. Thomas - Core Curriculum](https://raw.githubusercontent.com/historical-theology/stthomas/main/ustlogo.jpg)
 
+***
+
+
+
 # Faith, Reason, and Revelation
 
 #### Corey Stephan, Ph.D.
+
 [coreystephan.com](https://www.coreystephan.com/)
 
-* Email: corey.stephan@stthom.edu
-* Office location: Hughes 201
-	* Office hours by appointment (email in advance)
+* Email: [corey.stephan@stthom.edu](mailto:corey.stephan@stthom.edu)
+* Office hours in Microsoft Teams (virtual) by appointment (email in advance)
 
 #### Fall 2025
 
-*Last updated on August 12*
+*Last updated on August 14*
 
 Online and asynchronous (3 sections):
 
@@ -109,7 +113,7 @@ The total class grade is weighted out of 100 points.
 
 3. Early Term: (20%) SHORT ANSWER TEST
 
-* 1 class period of writing paragraphs synthesizing the material from Unit 1 in your own reasoned language, thinking of yourselves as 'instructing the instructor'
+* Short paragraphs synthesizing the material from Unit 1 in your own reasoned language, thinking of yourself as 'instructing the instructor'
 
 4. End of Term: (20%) CUMULATIVE EXAM
 
@@ -135,11 +139,13 @@ You are expected to have completed each week's required lectures and readings *p
 
 Each instance of "Blackboard #" corresponds to a specific matching numbered module (folder) inside the "Readings & Lectures" tab in Blackboard.
 
+**In this online and asynchronous class (with me, Dr. Stephan), you *always* have the option to work ahead. Every listed deadline is *only* the final deadline for that specific task.**
+
 ### Unit 1: What are faith and reason?
 
 #### 1: Introductions
 
-Complete the Faith, Reason, and Revelation Class Survey & Contract in Blackboard by 11:59 PM on Friday, January 17 (2.5% of class grade).
+Complete the Faith, Reason, and Revelation Class Survey & Contract in Blackboard by 11:59 PM on Friday, August 22 (5% of class grade).
 
 January 13-17
 
@@ -149,7 +155,7 @@ January 13-17
 
 *How will this Faith, Reason, and Revelation class work?*
 
-* [Faith, Reason, & Revelation: Syllabus & Class Bones (Spring 2025, Online)](https://odysee.com/@CoreyStephanPh.D.:c/faith-reason-revelation-syllabus-spring2025:c)
+* Faith, Reason, & Revelation: Syllabus & Class Bones (Fall 2025, TBA)
 
 *What is theology? How should I start doing it?*
 
@@ -168,11 +174,11 @@ Lectures
 * Optional: [The Best Free Computer Sources for Catholic Theology](https://odysee.com/@CoreyStephanPh.D.:c/computer-resources-catholic-theology:7)
 * Optional: [Oxford Reference Website: Theology & History Usage Guide](https://odysee.com/@CoreyStephanPh.D.:c/oxford-reference:e)
 
-##### CONTENT QUIZ on 1: Introductions is due by 11:59 PM on Friday, January 17.
+##### CONTENT QUIZ on 1: Introductions is due by 11:59 PM on Friday, August 22.
 
 #### 2: What is faith?
 
-January 20-24
+August 25-29
 
 *Faith & Reason*
 
@@ -206,13 +212,13 @@ Reading
 
 * [CCC #153-161](https://www.usccb.org/sites/default/files/flipbooks/catechism/42/)
 
-#### SHORT ANSWER ESSAY TASK is due by 11:59 PM on Friday, January 24.
+#### SHORT ANSWER ESSAY TASK is due by 11:59 PM on Friday, August 29.
 
 ### Unit 2: Apparent Clashes of Faith and Reason
 
 #### 4: Creation(ism) and Evolution(ism)
 
-January 27-31
+September 1-5
 
 *Genesis & Creation*, part 1: Genre
 
@@ -235,7 +241,7 @@ Reading
 
 * (Blackboard 4) Catholic Study Bible: Genesis Reading Guide (RG pp. 120-134), Genesis Introduction (Bible pp. 9-11), and Genesis 1 (Bible pp. 11-13)
 
-February 3-7
+September 8-12
 
 *Genesis & Creation*, part 3: Genesis 2-3
 
@@ -253,11 +259,11 @@ Reading
 
 * (Blackboard 4) St. John Paul II's Letter to Scientists
 
-#### CONTENT QUIZ on 4: Creation(ism) and Evolution(ism) is due by 11:59 PM on Friday, February 7.
+#### CONTENT QUIZ on 4: Creation(ism) and Evolution(ism) is due by 11:59 PM on Friday, September 12.
 
 #### 5: Original Sin
 
-February 10-14
+September 15-19
 
 *Original Sin*
 
@@ -279,11 +285,11 @@ Reading
 
 * [CCC #1849-1863](https://www.usccb.org/sites/default/files/flipbooks/catechism/454/)
 
-#### CONTENT QUIZ on 5: Creation(ism) and Evolution(ism) is due by 11:59 PM on Friday, February 14.
+#### CONTENT QUIZ on 5: Creation(ism) and Evolution(ism) is due by 11:59 PM on Friday, September 19.
 
 #### 6: The Problem of Evil
 
-February 17-21
+September 22-26
 
 *What is the Problem of Evil?*
 
@@ -309,7 +315,7 @@ Reading
 
 * C.S. Lewis, The Problem of Pain, ch. 2: Divine Omnipotence (Blackboard 6)
 
-February 24-28
+September 29-October 3
 
 *Classical Solutions to the Problem*
 
@@ -323,15 +329,13 @@ March 3-7
 
 * St. Augustine of Hippo, *Confessions*, Book VII, Chadwick Translation (Blackboard 6)
 
-#### CONTENT QUIZ on 6: The Problem of Evil is due by 11:59 PM on Friday, March 7.
-
-Spring Break: No Assignments for March 10-14
+#### CONTENT QUIZ on 6: The Problem of Evil is due by 11:59 PM on Friday, October 3.
 
 ### Unit 3: Revelation
 
 #### 7: Biblical Inspiration: Divine & Human
 
-March 17-21
+October 6-10
 
 Lecture
 
@@ -341,13 +345,15 @@ Readings
 
 * Catholic Study Bible: Reading Guide, pp. 11-32 ("The Biblical Texts and Their Backgrounds" and "The Bible in Catholic Life") (Blackboard 7)
 
-#### CONTENT QUIZ on 7: Biblical Inspiration: Divine & Human is due by 11:59 PM on Friday, March 21.
+#### CONTENT QUIZ on 7: Biblical Inspiration: Divine & Human is due by 11:59 PM on Friday, October 10.
+
+##### October 11-14 = Fall Recess/Break
 
 #### 8: Ecclesiastes
 
-*A week-long intensive dive into the Book of Ecclesiastes/Qoheleth as it pertains to the themes of the class*
+*An intensive dive into the Book of Ecclesiastes/Qoheleth as it pertains to the themes of the class*
 
-March 24-28
+October 15-24
 
 Reading
 
@@ -373,11 +379,11 @@ Lecture
 
 [Ecclesiastes/Qoheleth: Close Reading, Part 2 (6:10-12:14)](https://odysee.com/@CoreyStephanPh.D.:c/ecclesiastes-part2:0)
 
-#### CONTENT QUIZ on 8: Ecclesiastes/Qoheleth is due by 11:59 PM on Friday, March 28.
+#### CONTENT QUIZ on 8: Ecclesiastes/Qoheleth is due by 11:59 PM on Friday, October 24.
 
 #### 9: What are the Gospels?
 
-March 31-April 4
+October 27-31
 
 *What are the Gospels?*
 
@@ -399,12 +405,12 @@ Lecture
 
 * [Who did Jesus claim to be? An Introduction to Jesus's Profession(s) about Himself in the Gospels](https://odysee.com/@CoreyStephanPh.D.:c/jesus-claim:c?lid=ba276647c819d8fdaf2af475bd42bb82455bba93)
 
-#### CONTENT QUIZ on 9: What are the Gospels? is due by 11:59 PM on Friday, April 4.
+#### CONTENT QUIZ on 9: What are the Gospels? is due by 11:59 PM on Friday, October 31.
 
 
 #### 10: Christ and the Church
 
-April 7-11
+November 3-7
 
 * (Blackboard 10) Pitre, ch. 9
 
@@ -416,11 +422,11 @@ Lecture
 
 *In-class homilies and other Patristic texts shared by the instructor*
 
-#### CONTENT QUIZ on 10: Christ and the Church is due by 11:59 PM on Friday, April 11.
+#### CONTENT QUIZ on 10: Christ and the Church is due by 11:59 PM on Friday, November 7.
 
 #### 11: Grace & Virtue
 
-April 14-16 (Triduum Break starts April 17)
+November 10-14
 
 *Grace & Virtue*
 
@@ -436,11 +442,11 @@ Readings
 
 * Teresa, p.307-319
 
-#### CONTENT QUIZ on 11: Grace & Virtue is due by 11:59 PM on **Wednesday**, April 16 (before break).
+#### CONTENT QUIZ on 11: Grace & Virtue is due by 11:59 PM on Friday, November 14.
 
 #### 12: Miracles
 
-April 21-25
+November 17-21
 
 *What are miracles?*
 
@@ -456,19 +462,15 @@ Reading
 
 * Miracles in Lourdes (Blackboard 12)
 
-#### CONTENT QUIZ on 12: Miracles is due by 11:59 PM on Friday, April 25.
+#### CONTENT QUIZ on 12: Miracles is due by 11:59 PM on Friday, November 21.
 
-April 28-May 2
+***
 
-#### Cumulative Exam Week
+Class Conclusion
 
-* Lecture
+#### (1) CUMULATIVE EXAM is due by 11:59 PM on Monday, December 1.
 
-Class review video lecture (TBA)
-
-#### CUMULATIVE EXAM is due by 11:59 PM on Friday, May 2.
-
-#### LEARNING OBJECTIVE ASSESSMENT QUIZ is due by 11:59 PM on Friday, May 2.
+#### (2) LEARNING OBJECTIVE ASSESSMENT QUIZ is due by 11:59 PM on Monday, December 1.
 
 ***
 
@@ -486,7 +488,7 @@ I encourage you to meet with me (Dr. Stephan), especially for guidance on the re
 
 ### Communication
 
-You must use university email for electronic correspondence with me. I do not communicate digitally with students via any other means.
+You must use university email (@stthom.edu) for electronic correspondence with me.
 
 ***
 
